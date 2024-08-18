@@ -1,0 +1,6876 @@
+1
+00:00:54,052 --> 00:00:55,361
+Are you watching closely?
+
+2
+00:01:02,051 --> 00:01:06,242
+Every magic trick
+consists of three parts or acts.
+
+3
+00:01:07,010 --> 00:01:09,630
+The first part is called the Pledge.
+
+4
+00:01:09,795 --> 00:01:12,894
+The magician shows you
+something ordinary...
+
+5
+00:01:13,059 --> 00:01:16,256
+...a deck of cards, a bird, or a man.
+
+6
+00:01:22,595 --> 00:01:24,929
+He shows you this object...
+
+7
+00:01:25,091 --> 00:01:27,001
+...perhaps he asks you to inspect it...
+
+8
+00:01:28,130 --> 00:01:30,652
+...to see that it is, indeed, real.
+
+9
+00:01:30,819 --> 00:01:33,819
+Yeah, unaltered, normal.
+
+10
+00:01:36,964 --> 00:01:39,779
+But of course, it probably isn"t.
+
+11
+00:01:40,228 --> 00:01:43,872
+- Where do you think you're going?
+- I'm part of the bloody act, you fool.
+
+12
+00:01:56,291 --> 00:01:58,658
+The second act is called the Turn.
+
+13
+00:02:12,547 --> 00:02:15,394
+The magician takes
+the ordinary something...
+
+14
+00:02:17,251 --> 00:02:20,000
+...and makes it
+do something extraordinary.
+
+15
+00:02:24,547 --> 00:02:28,027
+Now, you"re looking for the secret,
+but you won"t find it...
+
+16
+00:02:28,195 --> 00:02:31,359
+...because, of course,
+you"re not really looking.
+
+17
+00:02:31,971 --> 00:02:33,532
+You don"t really wanna know.
+
+18
+00:02:36,643 --> 00:02:38,911
+You want to be fooled.
+
+19
+00:02:40,707 --> 00:02:42,398
+But you wouldn"t clap yet...
+
+20
+00:02:43,139 --> 00:02:46,967
+...because making something disappear
+isn"t enough.
+
+21
+00:02:47,555 --> 00:02:50,751
+You have to bring it back.
+
+22
+00:02:52,002 --> 00:02:55,547
+That"s why every magic trick
+has a third act.
+
+23
+00:02:55,715 --> 00:02:57,209
+The hardest part.
+
+24
+00:02:57,761 --> 00:03:01,057
+The part we call the Prestige.
+
+25
+00:03:11,395 --> 00:03:15,356
+The Prestige. And did Robert Angier,
+the Great Danton, your employer...
+
+26
+00:03:15,522 --> 00:03:18,043
+...get to that final part
+of his trick that night?
+
+27
+00:03:18,211 --> 00:03:19,804
+- No, sir. Something went wrong.
+- What went wrong?
+
+28
+00:03:21,059 --> 00:03:24,407
+I saw someone
+making their way below stage.
+
+29
+00:03:24,579 --> 00:03:26,236
+I followed him.
+
+30
+00:03:26,402 --> 00:03:29,501
+It was Borden,
+watching Mr. Angier drown.
+
+31
+00:03:29,666 --> 00:03:32,765
+Would you please describe
+your occupation to the jury, Mr. Cutter?
+
+32
+00:03:32,930 --> 00:03:33,978
+I'm an ingenieur.
+
+33
+00:03:34,147 --> 00:03:38,337
+I design illusions and construct the
+apparatus necessary for performing them.
+
+34
+00:03:38,498 --> 00:03:39,446
+So, Mr. Cutter...
+
+35
+00:03:39,618 --> 00:03:42,651
+...was this water-filled tank
+beneath the stage...
+
+36
+00:03:42,819 --> 00:03:44,510
+...part of Mr. Angier's illusion?
+
+37
+00:03:44,675 --> 00:03:45,755
+No, no. It was...
+
+38
+00:03:45,922 --> 00:03:49,883
+The tank was brought on for the first trick
+and then taken off-stage.
+
+39
+00:03:50,051 --> 00:03:53,117
+Borden must have placed it
+under the trap door after the interval.
+
+40
+00:03:53,283 --> 00:03:54,624
+How large was this tank?
+
+41
+00:03:54,786 --> 00:03:59,195
+Oh, it's a normal tank for escape
+underwater, about 4 or 500 gallons.
+
+42
+00:03:59,363 --> 00:04:00,672
+How do you think Mr. Borden...
+
+43
+00:04:00,834 --> 00:04:04,151
+...was able to move the tank under
+the trap door without anyone noticing?
+
+44
+00:04:04,322 --> 00:04:06,014
+He's a magician. Ask him.
+
+45
+00:04:06,179 --> 00:04:10,553
+I ask again that this man explain
+the mechanics of Mr. Angier's illusion.
+
+46
+00:04:10,723 --> 00:04:12,150
+The Real Transported Man...
+
+47
+00:04:12,322 --> 00:04:15,170
+...is one of the most sought-after illusions
+in this business.
+
+48
+00:04:15,330 --> 00:04:16,759
+I have the right to sell it on.
+
+49
+00:04:16,931 --> 00:04:19,418
+If I reveal the method here,
+then the trick is worthless.
+
+50
+00:04:19,586 --> 00:04:23,448
+How can we know that the tank wasn't
+some part of the trick that went wrong?
+
+51
+00:04:24,226 --> 00:04:26,169
+Mr. Cutter, I see your predicament...
+
+52
+00:04:26,338 --> 00:04:28,510
+...but Alfred Borden's life
+hangs in the balance.
+
+53
+00:04:28,867 --> 00:04:31,681
+If you were prepared to disclose
+the details to me in private...
+
+54
+00:04:31,842 --> 00:04:34,297
+...I might be able to judge
+their relevance to the case.
+
+55
+00:04:34,468 --> 00:04:36,955
+Might this be an acceptable compromise?
+
+56
+00:04:54,658 --> 00:04:57,658
+I'm gonna have to ask you
+to turn out your pockets.
+
+57
+00:05:01,923 --> 00:05:03,002
+Not my idea, sir.
+
+58
+00:05:03,169 --> 00:05:07,000
+The warden saw his show in Manchester
+last year where he vanished into thin air.
+
+59
+00:05:07,171 --> 00:05:10,016
+He's convinced he'll try and escape.
+
+60
+00:05:12,898 --> 00:05:15,451
+I told him the only way
+that Borden's gonna disappear...
+
+61
+00:05:15,619 --> 00:05:18,651
+...is if I leave him out there
+with the other inmates.
+
+62
+00:05:23,554 --> 00:05:24,732
+Check the locks.
+
+63
+00:05:26,498 --> 00:05:28,408
+Twice.
+
+64
+00:05:34,721 --> 00:05:37,088
+My name is owens.
+
+65
+00:05:37,250 --> 00:05:39,356
+I'm a solicitor.
+
+66
+00:05:39,522 --> 00:05:43,003
+I represent Lord caldlow, an accomplished
+amateur magician and historian...
+
+67
+00:05:43,170 --> 00:05:44,827
+How much?
+
+68
+00:05:45,505 --> 00:05:47,873
+- Lord caldlow is interested...
+- How much for my tricks?
+
+69
+00:05:48,033 --> 00:05:49,276
+Five thousand pounds.
+
+70
+00:05:49,443 --> 00:05:51,831
+Talk with Fallon, my ingenieur.
+Money's for him.
+
+71
+00:05:52,001 --> 00:05:55,482
+Yes, I did.
+He offered to sell me your tricks.
+
+72
+00:05:55,649 --> 00:05:58,268
+All except the most valuable one:
+The Transported Man.
+
+73
+00:05:58,434 --> 00:06:01,467
+Well, I wouldn't forgive myself
+for selling my greatest trick.
+
+74
+00:06:01,633 --> 00:06:02,878
+Even for your daughter?
+
+75
+00:06:04,642 --> 00:06:07,063
+If the newspapers are right
+and you are for the drop...
+
+76
+00:06:07,234 --> 00:06:10,462
+...your daughter will need looking after.
+- Fallon will take care of her.
+
+77
+00:06:10,625 --> 00:06:13,887
+Bernard Fallon? A man with a past
+almost as obscure as your own.
+
+78
+00:06:14,050 --> 00:06:16,571
+Courts motioned that the girl
+be removed from his care.
+
+79
+00:06:16,737 --> 00:06:19,071
+No, the girl will be an orphan.
+
+80
+00:06:19,682 --> 00:06:23,904
+I know you're no stranger to the workhouse.
+It's better than here?
+
+81
+00:06:24,066 --> 00:06:26,968
+I'm offering you a way
+to wrap up your affairs with dignity.
+
+82
+00:06:27,138 --> 00:06:28,927
+And I'm offering your daughter a future.
+
+83
+00:06:29,090 --> 00:06:32,570
+As Lord caldlow's ward,
+she will want for nothing. Ever.
+
+84
+00:06:34,113 --> 00:06:36,502
+Well, think it over.
+
+85
+00:06:37,282 --> 00:06:41,438
+And Lord caldlow would like you
+to have this as a show of good faith.
+
+86
+00:06:41,601 --> 00:06:44,830
+He said it might be of interest.
+This is Robert Angier's diary.
+
+87
+00:06:44,993 --> 00:06:47,612
+Including the time he spent
+in colorado learning your trick.
+
+88
+00:06:47,778 --> 00:06:49,272
+- He never learned my trick.
+- Really?
+
+89
+00:06:49,441 --> 00:06:52,757
+On his return from colorado, he mounted
+a version of The Transported Man...
+
+90
+00:06:52,928 --> 00:06:56,606
+...that the papers said
+was better even than your original.
+
+91
+00:06:56,770 --> 00:07:02,912
+If you want Angier's secrets,
+you go dig him up and ask him yourself.
+
+92
+00:07:03,393 --> 00:07:05,881
+I want your secret, Mr. Borden.
+
+93
+00:07:08,130 --> 00:07:09,242
+Consider your daughter.
+
+94
+00:07:16,578 --> 00:07:20,351
+A cipher. An enigma.
+
+95
+00:07:22,146 --> 00:07:25,342
+A search. A search for answers.
+
+96
+00:07:32,289 --> 00:07:35,933
+Even if Colorado
+is the end of my journey...
+
+97
+00:07:36,096 --> 00:07:41,564
+...it"ll take much longer to unravel
+the rest of Borden"s secrets.
+
+98
+00:07:43,105 --> 00:07:47,480
+See, the cipher in his notebook
+is unlocked by a single word...
+
+99
+00:07:47,650 --> 00:07:53,213
+...but it will still take months to translate
+his writing and to know his mind.
+
+100
+00:07:55,906 --> 00:07:59,135
+Well, my passion is equal to the task.
+
+101
+00:08:10,688 --> 00:08:14,334
+Mr. Angier?
+Welcome to colorado Springs.
+
+102
+00:08:28,769 --> 00:08:32,183
+- The whole town has electricity.
+- Yes, sir.
+
+103
+00:08:48,225 --> 00:08:51,094
+Well, quite a reception.
+
+104
+00:08:51,265 --> 00:08:53,533
+You're our first guest of the season,
+Mr. Angier.
+
+105
+00:08:53,697 --> 00:08:56,926
+Your telegram didn't indicate
+how long you'll be staying with us.
+
+106
+00:08:57,088 --> 00:08:58,551
+For as long as it takes.
+
+107
+00:08:58,721 --> 00:09:01,753
+I'll need a coach tomorrow
+to take me up the mountain.
+
+108
+00:09:01,920 --> 00:09:05,303
+Well, the peak is closed, sir,
+for scientific experimentation.
+
+109
+00:09:05,473 --> 00:09:08,572
+Yes, I know. That's why I'm here.
+
+110
+00:09:19,360 --> 00:09:22,589
+You'll have to walk the rest,
+I'm afraid, sir.
+
+111
+00:09:56,257 --> 00:10:01,789
+I'm amazed how many of you
+newspaper writers can't read my sign.
+
+112
+00:10:06,497 --> 00:10:08,405
+Not the welcome I was expecting.
+
+113
+00:10:11,648 --> 00:10:13,208
+I know you.
+
+114
+00:10:16,960 --> 00:10:21,402
+You're the Great Danton.
+I saw your show in London seven times.
+
+115
+00:10:21,569 --> 00:10:25,692
+You guessed every object
+the audience had in their pockets.
+
+116
+00:10:25,856 --> 00:10:27,165
+I'm Alley.
+
+117
+00:10:27,329 --> 00:10:29,696
+Sorry about the fence.
+People interfere with our work.
+
+118
+00:10:29,856 --> 00:10:32,279
+- I've come to see Tesla.
+- Why?
+
+119
+00:10:32,449 --> 00:10:36,158
+He made a machine
+for a colleague of mine sometime ago.
+
+120
+00:10:36,321 --> 00:10:39,669
+- Can you get me a meeting with him?
+- Impossible, I'm afraid.
+
+121
+00:10:39,841 --> 00:10:41,913
+I brought a lot of money.
+
+122
+00:10:42,081 --> 00:10:43,542
+I'm sorry, Mr. Angier.
+
+123
+00:10:44,800 --> 00:10:47,418
+I simply can't help you.
+
+124
+00:10:48,353 --> 00:10:51,702
+I'll be staying at the hotel. Indefinitely.
+
+125
+00:10:54,465 --> 00:10:55,610
+Hey, what am I holding?
+
+126
+00:10:56,449 --> 00:10:57,693
+Your watch.
+
+127
+00:11:02,559 --> 00:11:07,775
+Borden"s journal entry for April 3rd, 1897,
+describes a show at the Orpheum Theater.
+
+128
+00:11:07,936 --> 00:11:11,613
+That was just days after he first met me.
+
+129
+00:11:13,504 --> 00:11:16,439
+We were two young men
+at the start of a great career.
+
+130
+00:11:16,608 --> 00:11:19,030
+Two young men devoted to an illusion.
+
+131
+00:11:19,200 --> 00:11:21,272
+Two young men
+who never intended to hurt anyone.
+
+132
+00:11:21,441 --> 00:11:25,717
+Which of you brave souls is willing
+to bind this lovely young woman?
+
+133
+00:11:37,536 --> 00:11:38,844
+If you would tie her wrists.
+
+134
+00:11:39,616 --> 00:11:44,253
+Bind her feet around the ankle.
+
+135
+00:11:44,417 --> 00:11:46,325
+Are either of you two gentlemen sailors?
+
+136
+00:11:46,496 --> 00:11:48,122
+- No.
+- No.
+
+137
+00:11:48,991 --> 00:11:52,252
+I'm sure you can both tie a strong knot.
+
+138
+00:12:52,735 --> 00:12:55,899
+He's complacent,
+he's predictable, he's boring.
+
+139
+00:12:56,064 --> 00:12:58,551
+I mean, Milton has gotten success,
+whatever that means...
+
+140
+00:12:58,719 --> 00:13:01,371
+...and now he's scared.
+He won't take any risks at all.
+
+141
+00:13:01,536 --> 00:13:04,154
+I mean, he's squandering
+the goodwill of the audience...
+
+142
+00:13:04,319 --> 00:13:07,134
+...with tired, second-rate tricks.
+- They're old favorites.
+
+143
+00:13:07,296 --> 00:13:10,524
+Favorites? Give me something fresh.
+He won't even try a bullet catch.
+
+144
+00:13:10,689 --> 00:13:12,214
+A bullet catch is suicide.
+
+145
+00:13:12,384 --> 00:13:16,125
+All it takes is some smart-ass volunteer
+to put a button in the barrel.
+
+146
+00:13:16,288 --> 00:13:18,556
+- Fine. Use a plant.
+- You can't for every trick.
+
+147
+00:13:18,720 --> 00:13:21,403
+- There'd be no seats left for the punters.
+- No bullet catch.
+
+148
+00:13:21,567 --> 00:13:25,757
+Whatever. The point is that a real magician
+tries to invent something new...
+
+149
+00:13:25,919 --> 00:13:28,569
+...that other magicians
+are gonna scratch their heads over.
+
+150
+00:13:28,735 --> 00:13:30,808
+And then you sell it to him
+for a small fortune.
+
+151
+00:13:30,975 --> 00:13:31,923
+- All right.
+- Yeah.
+
+152
+00:13:32,096 --> 00:13:33,852
+I suppose you have such a trick.
+
+153
+00:13:34,016 --> 00:13:36,349
+- Actually, I do.
+- Would you care to sell it to me?
+
+154
+00:13:36,511 --> 00:13:37,972
+No.
+No one else could do my trick.
+
+155
+00:13:38,143 --> 00:13:40,085
+- Any trick can be duplicated, right?
+- Wrong.
+
+156
+00:13:40,254 --> 00:13:43,037
+If Mr. Borden
+has invented his masterpiece...
+
+157
+00:13:43,199 --> 00:13:45,271
+...it might be only he's prepared to do it.
+
+158
+00:13:45,631 --> 00:13:47,704
+Milton is a great showman,
+but Borden is right.
+
+159
+00:13:47,872 --> 00:13:49,366
+He won't get his hands dirty.
+
+160
+00:13:49,792 --> 00:13:53,752
+If you wanna see what it takes
+to make real magic, go to the Tenley.
+
+161
+00:13:53,918 --> 00:13:56,505
+There's a chinaman there,
+and he really has what it takes.
+
+162
+00:13:56,671 --> 00:13:58,810
+- Chung Ling Soo.
+- Pricey. I can't afford that.
+
+163
+00:13:58,975 --> 00:14:00,470
+I know the bloke on the door.
+
+164
+00:14:00,640 --> 00:14:02,843
+You two go and see that show...
+
+165
+00:14:03,008 --> 00:14:04,829
+...and whichever one of you
+can tell me...
+
+166
+00:14:04,991 --> 00:14:06,780
+...how he does
+the goldfish-bowl trick...
+
+167
+00:14:06,942 --> 00:14:08,186
+...gets a prize.
+- All right.
+
+168
+00:14:08,351 --> 00:14:09,944
+- Which is?
+- Ten minutes on-stage...
+
+169
+00:14:10,111 --> 00:14:11,834
+...with my old friend Mr. Ackerman.
+
+170
+00:14:11,999 --> 00:14:13,276
+- Really?
+- Who's Ackerman?
+
+171
+00:14:13,440 --> 00:14:15,446
+The top theatrical agent in London.
+
+172
+00:14:16,864 --> 00:14:18,424
+I saw you drop the knot again.
+
+173
+00:14:18,591 --> 00:14:21,788
+- I think I turned my wrist.
+- Some nights, you just don't get it, do you?
+
+174
+00:14:21,951 --> 00:14:25,747
+I mean, if that knot slips
+and Julia's on the hoist, she'll break a leg.
+
+175
+00:14:25,919 --> 00:14:30,076
+It's the wrong knot. Like I said,
+the Langford double will hold tighter.
+
+176
+00:14:30,238 --> 00:14:33,687
+The Langford double isn't a wet knot.
+It's too dangerous.
+
+177
+00:14:33,855 --> 00:14:35,863
+If the rope swells up, she won't slip it.
+
+178
+00:14:36,031 --> 00:14:39,031
+- I can slip a Langford underwater.
+- She can slip it. We'll practice.
+
+179
+00:14:39,199 --> 00:14:40,476
+Hey, Borden, he said no.
+
+180
+00:14:40,639 --> 00:14:42,875
+Yeah, well, you know knots
+better than me, do you?
+
+181
+00:14:43,039 --> 00:14:44,862
+Listen, no more mistakes.
+
+182
+00:14:45,312 --> 00:14:47,515
+All right. Yeah, do you?
+You wanna take over?
+
+183
+00:14:47,679 --> 00:14:50,363
+- Just leave it.
+- I didn't think so.
+
+184
+00:14:54,655 --> 00:14:57,143
+- Hey, cutter, where's he from?
+- Where are you from?
+
+185
+00:14:57,310 --> 00:15:01,401
+- He shifts props for virgil at the hall.
+- Aren't you worried he'll steal your tricks?
+
+186
+00:15:01,567 --> 00:15:03,770
+- He doesn't deal in methods.
+- How do you know?
+
+187
+00:15:03,935 --> 00:15:08,822
+Because I hired him to find out
+how virgil does the orange trick.
+
+188
+00:15:08,990 --> 00:15:11,227
+- Well, I don't trust him.
+- He's a natural magician.
+
+189
+00:15:11,391 --> 00:15:12,765
+Of course you can't trust him.
+
+190
+00:15:13,568 --> 00:15:14,582
+I think he's all right.
+
+191
+00:15:14,751 --> 00:15:16,988
+- You think everyone's all right.
+- Even you.
+
+192
+00:15:17,151 --> 00:15:20,697
+Watch your sightlines. If I can see you
+kissing your wife's leg every night...
+
+193
+00:15:20,863 --> 00:15:23,284
+...so can the blokes
+at the ends of row three and four.
+
+194
+00:15:54,591 --> 00:15:56,446
+- You"re wrong. It can"t be.
+- No, it is.
+
+195
+00:15:56,607 --> 00:15:59,924
+- Look at the man.
+- This is the trick.
+
+196
+00:16:00,096 --> 00:16:04,438
+This is a performance right here.
+This is why no one can detect his method.
+
+197
+00:16:06,269 --> 00:16:07,678
+Total devotion to his art.
+
+198
+00:16:08,702 --> 00:16:12,631
+Utter self-sacrifice, you know?
+
+199
+00:16:12,798 --> 00:16:18,166
+It's the only way to escape all this,
+you know.
+
+200
+00:16:20,255 --> 00:16:21,204
+All right.
+
+201
+00:16:21,376 --> 00:16:25,150
+I can barely lift this thing
+and it's not even filled with water.
+
+202
+00:16:26,462 --> 00:16:28,667
+Or fish. Look.
+
+203
+00:16:28,831 --> 00:16:30,871
+I don't know. Hang on a second.
+
+204
+00:16:33,247 --> 00:16:35,767
+He must be strong as an ox.
+
+205
+00:16:38,015 --> 00:16:40,665
+He's been pretending
+to be a cripple for years.
+
+206
+00:16:40,830 --> 00:16:44,125
+Any time he's in public. Any time
+he goes out. It's unthinkable.
+
+207
+00:16:44,287 --> 00:16:47,134
+Borden saw it at once,
+but I couldn't fathom it.
+
+208
+00:16:47,295 --> 00:16:49,783
+Living my whole life
+pretending to be someone else.
+
+209
+00:16:49,951 --> 00:16:53,464
+- You're pretending to be someone else.
+- I don't think changing a name compares.
+
+210
+00:16:53,631 --> 00:16:55,997
+Not just your name.
+Who you are and where you're from.
+
+211
+00:16:56,159 --> 00:17:00,217
+I promised my family I wouldn't embarrass
+them with my theatrical endeavors.
+
+212
+00:17:01,407 --> 00:17:03,478
+I thought of a name for you.
+
+213
+00:17:04,862 --> 00:17:06,749
+The Great Danton.
+
+214
+00:17:08,318 --> 00:17:09,266
+Do you like it?
+
+215
+00:17:10,334 --> 00:17:12,473
+- But it's sophisticated.
+- It's French.
+
+216
+00:17:18,878 --> 00:17:22,194
+Borden writes as if no one but he
+understood the true nature of magic.
+
+217
+00:17:27,773 --> 00:17:30,556
+But what does he know of self-sacrifice?
+
+218
+00:17:35,197 --> 00:17:37,270
+You bloody fool.
+
+219
+00:18:03,678 --> 00:18:06,012
+- He killed it.
+- What?
+
+220
+00:18:06,173 --> 00:18:07,122
+What's wrong?
+
+221
+00:18:07,294 --> 00:18:11,156
+- He killed it.
+- I'm sure he didn't.
+
+222
+00:18:14,845 --> 00:18:16,373
+See? Look, now
+he'll bring it back.
+
+223
+00:18:18,621 --> 00:18:21,273
+No, he killed it.
+
+224
+00:18:22,526 --> 00:18:23,508
+No.
+
+225
+00:18:29,405 --> 00:18:32,156
+Look. See?
+He's all right. He's fine.
+
+226
+00:18:32,317 --> 00:18:36,147
+- Look at him.
+- But where's his brother?
+
+227
+00:18:38,942 --> 00:18:41,811
+He's a sharp lad, your son.
+
+228
+00:18:41,982 --> 00:18:44,437
+Oh, he's my nephew.
+
+229
+00:18:50,045 --> 00:18:51,453
+You're the lucky one today.
+
+230
+00:19:11,230 --> 00:19:13,401
+Are you watching closely?
+
+231
+00:19:17,021 --> 00:19:18,395
+Look closer.
+
+232
+00:19:21,343 --> 00:19:23,000
+Never show anyone.
+
+233
+00:19:23,453 --> 00:19:27,611
+They'll beg you and they'll flatter you for
+the secret, but as soon as you give it up...
+
+234
+00:19:27,774 --> 00:19:29,179
+...you'll be nothing to them.
+
+235
+00:19:29,341 --> 00:19:31,447
+You understand? Nothing.
+
+236
+00:19:31,613 --> 00:19:34,363
+The secret impresses no one.
+
+237
+00:19:34,526 --> 00:19:37,875
+The trick you use it for is everything.
+
+238
+00:19:42,205 --> 00:19:46,330
+- Well, thank you for lunch, Mr. Borden.
+- You're welcome.
+
+239
+00:19:47,774 --> 00:19:50,840
+- Alfred. It's Alfred.
+- Alfred.
+
+240
+00:19:51,006 --> 00:19:53,755
+So I could use a cup of tea.
+
+241
+00:19:53,917 --> 00:19:58,074
+I'd scandalize the landlord. I think not.
+
+242
+00:19:58,717 --> 00:20:01,531
+You think that's...?
+Is that enough to keep me out?
+
+243
+00:20:03,678 --> 00:20:04,790
+I think so.
+
+244
+00:20:05,885 --> 00:20:07,447
+So I'll see you again?
+
+245
+00:20:16,284 --> 00:20:17,659
+Milk and sugar?
+
+246
+00:20:38,909 --> 00:20:42,651
+- What's in there?
+- Angier's machine.
+
+247
+00:20:51,004 --> 00:20:52,380
+You built this, Mr. Cutter?
+
+248
+00:20:52,541 --> 00:20:55,224
+Oh, no, sir.
+This wasn't built by a magician.
+
+249
+00:20:55,388 --> 00:20:57,244
+This was built by a wizard.
+
+250
+00:20:57,405 --> 00:21:01,845
+A man who can actually do
+what magicians pretend to do.
+
+251
+00:21:02,012 --> 00:21:06,203
+Tell me, Your Honor, what happens
+with these things after the trial?
+
+252
+00:21:06,365 --> 00:21:08,023
+They've been sold to a Lord caldlow.
+
+253
+00:21:08,189 --> 00:21:10,872
+An avid collector,
+apparently very interested in the case.
+
+254
+00:21:11,038 --> 00:21:13,371
+Yeah, well, don't let him take this.
+
+255
+00:21:13,531 --> 00:21:15,223
+- Why ever not?
+- It's too dangerous.
+
+256
+00:21:16,157 --> 00:21:20,564
+I'm sure beneath its bells and whistles
+it's got a simple and disappointing trick.
+
+257
+00:21:20,733 --> 00:21:23,515
+Most disappointing of all, sir...
+
+258
+00:21:24,957 --> 00:21:26,900
+...it has no trick.
+
+259
+00:21:29,117 --> 00:21:30,490
+It's real.
+
+260
+00:21:33,565 --> 00:21:35,671
+This is the tank Angier drowned in?
+
+261
+00:21:36,061 --> 00:21:37,719
+Yes.
+
+262
+00:21:37,885 --> 00:21:43,995
+This is the place where the performer's
+hand reaches through to the trick padlock.
+
+263
+00:21:44,156 --> 00:21:46,393
+A standard magical apparatus
+for escapes.
+
+264
+00:21:46,557 --> 00:21:48,826
+Yeah, with one important difference:
+
+265
+00:21:48,988 --> 00:21:50,810
+This isn't a trick lock.
+
+266
+00:21:50,973 --> 00:21:52,826
+It's been switched for a real one.
+
+267
+00:21:52,989 --> 00:21:54,811
+What a way to kill someone.
+
+268
+00:21:55,357 --> 00:21:58,652
+They're magicians, Your Honor.
+Showmen.
+
+269
+00:21:58,812 --> 00:22:02,674
+Men who live by dressing up plain
+and sometimes-brutal truths...
+
+270
+00:22:03,195 --> 00:22:05,618
+...to amaze, to shock.
+
+271
+00:22:05,789 --> 00:22:08,058
+Even without an audience?
+
+272
+00:22:09,117 --> 00:22:10,839
+There was an audience.
+
+273
+00:22:11,709 --> 00:22:13,715
+You see, this water tank...
+
+274
+00:22:13,885 --> 00:22:17,910
+...was of particular significance
+to these two men.
+
+275
+00:22:18,334 --> 00:22:20,853
+Particularly awful significance.
+
+276
+00:22:23,485 --> 00:22:28,273
+Which of you brave souls is willing
+to bind this lovely young woman?
+
+277
+00:22:30,140 --> 00:22:32,028
+If you would tie her wrists.
+
+278
+00:22:32,187 --> 00:22:34,260
+Bind her feet around the ankle.
+
+279
+00:22:47,133 --> 00:22:48,921
+Are either of you two gentlemen sailors?
+
+280
+00:22:49,083 --> 00:22:50,066
+No.
+
+281
+00:22:51,070 --> 00:22:54,266
+I'm sure you can both tie a strong knot.
+
+282
+00:23:46,523 --> 00:23:47,507
+Robert!
+
+283
+00:24:06,972 --> 00:24:09,460
+No! No! No!
+
+284
+00:24:12,252 --> 00:24:13,910
+Julia. Julia.
+
+285
+00:24:14,077 --> 00:24:16,411
+Julia! Julia!
+
+286
+00:24:59,324 --> 00:25:01,941
+I knew an old sailor once.
+
+287
+00:25:02,107 --> 00:25:06,897
+He told me he went overboard,
+tangled in the sails.
+
+288
+00:25:07,067 --> 00:25:12,468
+They pulled him out,
+but it took him five minutes to cough.
+
+289
+00:25:12,636 --> 00:25:16,410
+He said it was like going home.
+
+290
+00:25:21,596 --> 00:25:23,701
+What do you want, Borden?
+
+291
+00:25:30,299 --> 00:25:32,187
+I'm sorry for your loss, Angier.
+
+292
+00:25:35,900 --> 00:25:38,105
+Which knot did you tie?
+
+293
+00:25:40,859 --> 00:25:42,321
+I keep asking myself that.
+
+294
+00:25:43,771 --> 00:25:46,390
+- And?
+- And...
+
+295
+00:25:47,515 --> 00:25:50,069
+I'm sorry, I just don't know.
+
+296
+00:25:52,123 --> 00:25:53,530
+You don't know?
+
+297
+00:25:54,939 --> 00:25:56,882
+I'm sorry.
+
+298
+00:25:58,108 --> 00:25:59,864
+You don't know?
+
+299
+00:26:04,092 --> 00:26:06,066
+You don't know?
+
+300
+00:26:12,283 --> 00:26:13,363
+Alfred?
+
+301
+00:26:13,532 --> 00:26:15,736
+Good news.
+We got our first booking today.
+
+302
+00:26:15,900 --> 00:26:18,747
+- I don't think we've had the pleasure.
+- Mr. Fallon is my ingenieur.
+
+303
+00:26:18,907 --> 00:26:22,223
+- Where did you get all of...?
+- Begged, borrowed, and don't ask.
+
+304
+00:26:22,395 --> 00:26:26,323
+He's a very enterprising soul,
+is Mr. Fallon.
+
+305
+00:26:26,490 --> 00:26:27,898
+- So...
+- we can't afford to pay him.
+
+306
+00:26:28,060 --> 00:26:29,782
+Money will come
+when we get the audience.
+
+307
+00:26:29,948 --> 00:26:33,264
+But what about until then? I mean,
+what I earn, it's barely enough for us.
+
+308
+00:26:33,435 --> 00:26:36,435
+Don't worry about it. I'll share
+half my food with him or something.
+
+309
+00:26:37,371 --> 00:26:40,089
+You're already going to be doing that
+with someone else.
+
+310
+00:26:40,412 --> 00:26:44,187
+- No. You're...?
+- Having a baby.
+
+311
+00:26:44,827 --> 00:26:47,957
+Oh, my God. We should have told Fallon.
+
+312
+00:26:48,123 --> 00:26:49,847
+That is great. We're having a baby.
+
+313
+00:26:50,011 --> 00:26:51,954
+- We're having a baby.
+- Oh, come here.
+
+314
+00:26:55,483 --> 00:26:56,728
+Alfred, what's this?
+
+315
+00:26:56,892 --> 00:27:00,754
+Oh, this is just the trick to wake
+Ackerman up at the end of my act.
+
+316
+00:27:00,924 --> 00:27:03,443
+Is it the masterpiece? The great trick?
+
+317
+00:27:03,612 --> 00:27:06,067
+No, no, no. The world is not ready
+for that one yet.
+
+318
+00:27:06,236 --> 00:27:10,359
+This is just your run-of-the-mill,
+daring, spectacular bullet catch.
+
+319
+00:27:10,972 --> 00:27:15,128
+- A bullet catch?
+- Yeah, but it's safe, I promise. Look.
+
+320
+00:27:17,531 --> 00:27:19,604
+- Shoot me.
+- Shoot you?
+
+321
+00:27:19,771 --> 00:27:20,786
+Go on, shoot me.
+
+322
+00:27:23,195 --> 00:27:25,203
+- Right there.
+- No, I can't.
+
+323
+00:27:25,371 --> 00:27:28,120
+No, no, not there. Shoot me here. Don't...
+
+324
+00:27:32,476 --> 00:27:36,119
+- How's that?
+- That's very good.
+
+325
+00:27:36,283 --> 00:27:38,868
+- Go on, tell me how you do it.
+- No, I can't do that.
+
+326
+00:27:41,052 --> 00:27:43,735
+- Well, then you can't do it. Alfred...
+- I can't do it?
+
+327
+00:27:43,898 --> 00:27:46,965
+I'm sorry, Alfred,
+but I can't raise a child on my own.
+
+328
+00:27:47,578 --> 00:27:50,677
+- You don't tell anybody that I told you.
+- Okay.
+
+329
+00:27:50,843 --> 00:27:52,500
+Gunpowder...
+
+330
+00:27:54,107 --> 00:27:55,055
+...wadding...
+
+331
+00:27:56,763 --> 00:27:58,421
+...and a bullet.
+
+332
+00:27:59,322 --> 00:28:00,731
+A ramrod.
+
+333
+00:28:05,467 --> 00:28:06,414
+Hold out your hand.
+
+334
+00:28:09,434 --> 00:28:13,112
+The bullet is not even in the gun
+when the charge is fired.
+
+335
+00:28:13,402 --> 00:28:16,751
+Once you know,
+it's actually very obvious.
+
+336
+00:28:17,914 --> 00:28:19,704
+Well, I mean, you still get...
+
+337
+00:28:19,866 --> 00:28:22,681
+It's dangerous. I mean,
+people still get killed doing that.
+
+338
+00:28:22,842 --> 00:28:24,019
+- Well, how?
+- Well, you know.
+
+339
+00:28:24,187 --> 00:28:27,035
+Somebody could get a smart-ass.
+He can put a penny or a button...
+
+340
+00:28:27,195 --> 00:28:30,009
+...or may God forbid, Sarah,
+somebody could put a bullet there.
+
+341
+00:28:30,171 --> 00:28:32,504
+Don't worry. Don't worry...
+
+342
+00:28:32,666 --> 00:28:35,798
+...because I'm not gonna let
+anything happen.
+
+343
+00:28:35,962 --> 00:28:37,490
+Everything's gonna be all right...
+
+344
+00:28:37,658 --> 00:28:43,573
+...because I love you very much.
+
+345
+00:28:45,689 --> 00:28:48,756
+- Say it again.
+- I love you.
+
+346
+00:28:49,850 --> 00:28:52,120
+- Not today.
+- What?
+
+347
+00:28:52,283 --> 00:28:55,283
+Well, on some days it's not true,
+and today you don't mean it.
+
+348
+00:28:55,451 --> 00:28:58,418
+Maybe today you're more
+in love with magic than me.
+
+349
+00:28:58,586 --> 00:29:00,823
+I like being able to tell the difference.
+
+350
+00:29:00,985 --> 00:29:05,688
+It makes the days it is true
+mean something.
+
+351
+00:29:07,802 --> 00:29:09,297
+All right.
+
+352
+00:29:27,546 --> 00:29:30,362
+Metal rings, ladies and gentlemen.
+
+353
+00:29:30,523 --> 00:29:33,206
+If there are any
+ladies or gentlemen here.
+
+354
+00:29:33,370 --> 00:29:36,404
+- Solid metal.
+- Seen that already.
+
+355
+00:29:36,569 --> 00:29:39,352
+- Leave it out!
+- Come on.
+
+356
+00:29:43,162 --> 00:29:45,945
+Get out your gun, mate.
+
+357
+00:29:46,651 --> 00:29:48,560
+- Who threw that?
+- I did!
+
+358
+00:29:53,882 --> 00:29:56,817
+Get out your gun.
+You're gonna need it.
+
+359
+00:29:59,930 --> 00:30:02,035
+Get a gun.
+
+360
+00:30:03,579 --> 00:30:05,783
+It's what you came for, is it?
+
+361
+00:30:08,954 --> 00:30:12,915
+So who wants to volunteer?
+
+362
+00:30:13,403 --> 00:30:15,822
+Me! Me!
+
+363
+00:30:25,337 --> 00:30:26,712
+Me.
+
+364
+00:30:27,738 --> 00:30:29,146
+Watch it, cowboy.
+
+365
+00:30:40,058 --> 00:30:42,327
+Are you man enough, sir?
+
+366
+00:30:47,226 --> 00:30:48,721
+Yes.
+
+367
+00:30:59,354 --> 00:31:01,209
+Which knot did you tie, Borden?
+
+368
+00:31:07,226 --> 00:31:09,298
+Which knot did you tie, Borden?
+
+369
+00:31:10,552 --> 00:31:12,080
+I don't know.
+
+370
+00:31:27,065 --> 00:31:30,513
+He came in to demand an answer,
+and I told him the truth.
+
+371
+00:31:30,682 --> 00:31:33,551
+That I have fought with myself
+over that night.
+
+372
+00:31:33,723 --> 00:31:37,038
+One half of me swearing blind
+that I tied a simple slipknot...
+
+373
+00:31:37,210 --> 00:31:40,308
+...the other half convinced
+that I tied the Langford double.
+
+374
+00:31:40,474 --> 00:31:42,579
+I can never know for sure.
+
+375
+00:31:45,049 --> 00:31:47,154
+How can he not know?
+
+376
+00:31:47,321 --> 00:31:49,558
+How can he not know?
+
+377
+00:31:50,586 --> 00:31:54,328
+He must know what he did. He must.
+
+378
+00:31:56,954 --> 00:31:58,808
+Sarah, that bloody hurts.
+
+379
+00:31:59,899 --> 00:32:02,003
+I don't understand
+how it can be bleeding again.
+
+380
+00:32:02,170 --> 00:32:04,407
+It's as bad as the day it happened.
+
+381
+00:32:06,168 --> 00:32:11,156
+- We have to get a doctor back.
+- We can't afford the bloody doctor back.
+
+382
+00:32:11,321 --> 00:32:13,971
+- You've woken her.
+- Great.
+
+383
+00:32:14,906 --> 00:32:17,426
+I'm sorry. I need this to heal
+so I can go back to work.
+
+384
+00:32:17,593 --> 00:32:21,138
+Alfred, face things. What tricks
+can you perform with this kind of injury?
+
+385
+00:32:21,307 --> 00:32:24,654
+I can do card pulls.
+I can do some prop tricks.
+
+386
+00:32:24,825 --> 00:32:28,950
+I can still do that. And I can do the trick
+that I've been telling you about.
+
+387
+00:32:29,113 --> 00:32:31,022
+The one that they're gonna
+remember me for.
+
+388
+00:32:33,401 --> 00:32:35,124
+Come on.
+
+389
+00:32:59,897 --> 00:33:02,483
+Never thought I'd find an answer
+at the bottom of a glass.
+
+390
+00:33:02,650 --> 00:33:04,111
+Hasn't stopped you looking.
+
+391
+00:33:09,145 --> 00:33:10,322
+Heard about a booking.
+
+392
+00:33:10,488 --> 00:33:13,969
+Nice little theater.
+Young up-and-coming magician.
+
+393
+00:33:14,137 --> 00:33:15,478
+- Who?
+- You.
+
+394
+00:33:15,641 --> 00:33:17,265
+You got me a booking? Why?
+
+395
+00:33:17,432 --> 00:33:19,256
+I wanna keep on working.
+
+396
+00:33:19,418 --> 00:33:22,320
+And who's gonna hire the ingenieur
+that killed Julia Mccullough...
+
+397
+00:33:22,490 --> 00:33:24,628
+...in front of a sellout crowd
+at the orpheum?
+
+398
+00:33:25,433 --> 00:33:27,506
+Someone who knows
+it wasn't your fault.
+
+399
+00:33:27,673 --> 00:33:30,902
+Someone who knows Alfred Borden
+and his repertoire of exotic knots.
+
+400
+00:33:31,065 --> 00:33:34,381
+I hear he had a spot of bad luck
+catching a bullet south of the river.
+
+401
+00:33:34,552 --> 00:33:36,855
+That's a dangerous trick, that one.
+
+402
+00:33:42,329 --> 00:33:44,021
+We'll have to whitewash the windows...
+
+403
+00:33:44,185 --> 00:33:48,408
+...confound the more curious members
+of the public, but it will do.
+
+404
+00:33:49,977 --> 00:33:52,792
+- We should see about an assistant.
+- I've made some arrangements.
+
+405
+00:33:53,817 --> 00:33:56,207
+Have you settled on a name?
+
+406
+00:33:56,377 --> 00:33:59,672
+Yes, I have. The Great Danton.
+
+407
+00:33:59,832 --> 00:34:02,200
+It's a bit old-fashioned, isn't it?
+
+408
+00:34:03,673 --> 00:34:05,713
+No, it's sophisticated.
+
+409
+00:34:05,880 --> 00:34:08,215
+The birdcage can't be our climax.
+Everybody knows it.
+
+410
+00:34:08,378 --> 00:34:10,798
+- Not like this they don't.
+- I don't wanna kill doves.
+
+411
+00:34:10,968 --> 00:34:14,351
+Then stay off the stage.
+You're a magician, not a wizard.
+
+412
+00:34:14,520 --> 00:34:18,231
+You gotta get your hands dirty
+if you're gonna achieve the impossible.
+
+413
+00:34:19,608 --> 00:34:21,844
+In here, Miss wenscombe.
+
+414
+00:34:22,008 --> 00:34:25,237
+No point in you meeting Mr. Angier
+if you don't fit.
+
+415
+00:34:25,400 --> 00:34:27,288
+On the right.
+
+416
+00:34:29,241 --> 00:34:30,420
+What's so hard about this?
+
+417
+00:34:30,585 --> 00:34:33,684
+Nothing. But you're going down here.
+
+418
+00:34:35,865 --> 00:34:39,160
+Hold it. Hold it there.
+This has gotta go around there.
+
+419
+00:34:39,320 --> 00:34:41,328
+- And this will conceal it?
+- Yeah, oh, sure.
+
+420
+00:34:41,496 --> 00:34:42,544
+- All right?
+- Yeah.
+
+421
+00:34:42,712 --> 00:34:45,200
+- Now, take that one there.
+- Yep. Okay.
+
+422
+00:34:45,368 --> 00:34:47,736
+- Pin this under.
+- And this ties up here?
+
+423
+00:34:47,897 --> 00:34:49,620
+- That ties at the front.
+- That's good.
+
+424
+00:34:55,577 --> 00:34:58,227
+Breathe as little as possible.
+
+425
+00:35:03,705 --> 00:35:06,357
+Now, you see? That'll go. That'll flatten.
+
+426
+00:35:06,521 --> 00:35:07,764
+- I see. Yeah.
+- Okay.
+
+427
+00:35:11,097 --> 00:35:14,870
+She's not experienced,
+but she knows how to present herself.
+
+428
+00:35:15,032 --> 00:35:19,090
+A pretty assistant is the most
+effective form of misdirection.
+
+429
+00:35:19,608 --> 00:35:20,558
+Thank you.
+
+430
+00:35:20,729 --> 00:35:22,637
+Ladies and gentlemen,
+for my final trick...
+
+431
+00:35:22,808 --> 00:35:25,361
+...I will require the assistance
+of two volunteers.
+
+432
+00:35:25,528 --> 00:35:27,765
+Mr. Merrit, if you would oblige me?
+
+433
+00:35:29,496 --> 00:35:32,530
+Yeah. Okay. Bring your hand around.
+
+434
+00:35:32,889 --> 00:35:34,230
+- Under?
+- Under, yeah.
+
+435
+00:35:34,938 --> 00:35:37,042
+There. I put it around its foot.
+
+436
+00:35:37,208 --> 00:35:38,965
+- Careful.
+- He's all right, ain't he?
+
+437
+00:35:58,520 --> 00:36:01,237
+- You get a volunteer to put a hand there.
+- Yeah.
+
+438
+00:36:01,401 --> 00:36:02,415
+And another one there.
+
+439
+00:36:02,584 --> 00:36:06,097
+Mr. Merrit, if you'll place your hands
+on either side of the cage, please.
+
+440
+00:36:06,264 --> 00:36:07,212
+Thank you, olivia.
+
+441
+00:36:07,384 --> 00:36:09,107
+You best not be intending...
+
+442
+00:36:09,271 --> 00:36:11,639
+...to hurt this animal, Mr. Angier.
+- Of course not.
+
+443
+00:36:11,800 --> 00:36:13,940
+You ready? All right.
+
+444
+00:36:14,104 --> 00:36:15,598
+One...
+
+445
+00:36:15,767 --> 00:36:17,197
+Two...
+
+446
+00:36:17,432 --> 00:36:19,504
+- Three.
+- Three. Go.
+
+447
+00:36:22,488 --> 00:36:24,146
+Well, that's bloody marvelous,
+cutter.
+
+448
+00:36:25,305 --> 00:36:26,253
+Very nice.
+
+449
+00:36:26,424 --> 00:36:28,464
+And the best part is...
+
+450
+00:36:33,528 --> 00:36:35,568
+I thought you said
+I had to get my hands dirty.
+
+451
+00:36:35,736 --> 00:36:38,998
+Someday perhaps you will.
+I just had to know that you can.
+
+452
+00:36:39,160 --> 00:36:41,777
+- Very nice. Very nice, indeed.
+- Thank you, Mr. Merrit.
+
+453
+00:36:41,943 --> 00:36:44,660
+I haven't had the chance
+to compliment your beautiful theater.
+
+454
+00:36:44,823 --> 00:36:47,060
+Well, it'll be a lot more beautiful
+when it's full.
+
+455
+00:36:47,224 --> 00:36:48,980
+- Don't worry.
+- Oh, you all say that.
+
+456
+00:36:49,145 --> 00:36:52,789
+Why should I worry? If your tricks
+don't get them in, somebody else's will.
+
+457
+00:36:52,951 --> 00:36:56,945
+Maybe somebody willing to do
+a bullet catch or a water escape?
+
+458
+00:36:57,112 --> 00:36:58,421
+Cheap thrills, Mr. Merrit.
+
+459
+00:36:58,583 --> 00:37:02,065
+People hoping for an accident,
+likely to see one too.
+
+460
+00:37:02,232 --> 00:37:04,653
+What would that do for your business?
+
+461
+00:37:05,592 --> 00:37:07,926
+- You got a week, John.
+- Thank you, Mr. Merrit.
+
+462
+00:37:17,912 --> 00:37:19,799
+Thank you.
+
+463
+00:37:21,848 --> 00:37:24,303
+Sir? In the third row there.
+
+464
+00:37:24,471 --> 00:37:27,154
+Please stand up
+and show us your handkerchief.
+
+465
+00:37:29,527 --> 00:37:30,641
+This isn't mine.
+
+466
+00:37:30,807 --> 00:37:33,774
+Perhaps you'd be so good as to return it
+to the lady in the aisle.
+
+467
+00:37:33,943 --> 00:37:35,187
+I believe she has yours.
+
+468
+00:37:38,648 --> 00:37:40,175
+Thank you.
+
+469
+00:37:42,263 --> 00:37:44,565
+I'm sorry. I'm so sorry.
+I'm making so many mistakes.
+
+470
+00:37:44,728 --> 00:37:46,483
+I'm so nervous.
+
+471
+00:37:47,128 --> 00:37:49,069
+The audience doesn't seem
+to be responding.
+
+472
+00:37:49,239 --> 00:37:53,844
+They've seen a lot of tricks before,
+but not this next one.
+
+473
+00:38:02,263 --> 00:38:04,369
+Put a cloth over.
+
+474
+00:38:04,537 --> 00:38:07,219
+- Fingers crossed.
+- I'll have the champagne ready.
+
+475
+00:38:22,456 --> 00:38:24,757
+- You've seen this one before?
+- We've seen them all.
+
+476
+00:38:24,918 --> 00:38:27,253
+I'll make it a little harder then, shall I?
+
+477
+00:38:27,416 --> 00:38:32,631
+Two volunteers, please. A lady
+and a gentleman to hold this cage with me.
+
+478
+00:38:33,239 --> 00:38:36,818
+I'll perform this feat in a manner
+never before seen by yourselves...
+
+479
+00:38:36,983 --> 00:38:39,701
+...or any other audience
+anywhere in the world.
+
+480
+00:38:42,198 --> 00:38:46,127
+Madam, if you'll place one hand on the back
+of the cage, one hand on the front.
+
+481
+00:38:46,294 --> 00:38:50,004
+Sir, one hand on the bottom of the cage,
+one hand on the top.
+
+482
+00:39:03,027 --> 00:39:05,515
+- Should have spotted him.
+- You had a lot of plates going.
+
+483
+00:39:05,682 --> 00:39:07,853
+- Don't suppose they'll let us do this again.
+- No.
+
+484
+00:39:08,017 --> 00:39:11,662
+- So, what's the climax of our show?
+- Show? You don't have a show.
+
+485
+00:39:11,828 --> 00:39:13,353
+We have a week's engagement.
+
+486
+00:39:13,523 --> 00:39:17,002
+To perform magic, not butcher birds
+and break my customers' fingers.
+
+487
+00:39:17,171 --> 00:39:19,505
+Clear out. Anything here
+in the morning gets burned.
+
+488
+00:39:19,665 --> 00:39:21,902
+- Mr. Merrit...
+- It's done, John.
+
+489
+00:39:22,066 --> 00:39:25,546
+I've hired a comedian.
+You know I hate comedians.
+
+490
+00:39:26,994 --> 00:39:29,099
+Well, there's plenty of good theaters.
+
+491
+00:39:29,266 --> 00:39:33,095
+If we can come up with a new trick,
+change the name of the act...
+
+492
+00:39:33,267 --> 00:39:35,053
+The name stays.
+
+493
+00:39:36,946 --> 00:39:41,735
+Right. Well, then the new trick's
+gonna have to be irresistible, then.
+
+494
+00:39:41,905 --> 00:39:43,596
+I have a couple of methods to try out.
+
+495
+00:39:43,762 --> 00:39:46,926
+And then we need a new angle
+on the presentation.
+
+496
+00:39:47,089 --> 00:39:48,813
+Oh, and if you need some inspiration...
+
+497
+00:39:48,978 --> 00:39:51,847
+...there's a technical exposition
+at the Albert Hall this week.
+
+498
+00:39:52,017 --> 00:39:54,570
+Engineers, scientists, you know?
+
+499
+00:39:54,738 --> 00:39:57,770
+That sort of thing
+captures a public's imagination.
+
+500
+00:40:14,193 --> 00:40:17,390
+Mind if I join you? Tesla sends me
+down here during the storms.
+
+501
+00:40:17,555 --> 00:40:20,555
+Perfect excuse to come join
+the Great Danton for a drink.
+
+502
+00:40:21,714 --> 00:40:23,438
+Two of them.
+
+503
+00:40:23,954 --> 00:40:26,375
+Beautiful, isn't it, huh?
+God, I miss New York though.
+
+504
+00:40:26,546 --> 00:40:28,815
+- So why are you here?
+- The lightning lives here.
+
+505
+00:40:28,978 --> 00:40:31,946
+And not much else. Our work is secret.
+
+506
+00:40:32,689 --> 00:40:34,380
+Is that a cipher?
+
+507
+00:40:36,498 --> 00:40:39,345
+It's a rotating transposition
+that shifts every day of the diary.
+
+508
+00:40:39,506 --> 00:40:43,214
+Simple, but time-consuming to translate,
+even when you have the five-letter keyword.
+
+509
+00:40:43,378 --> 00:40:45,036
+Which is?
+
+510
+00:40:45,202 --> 00:40:47,025
+We magicians have a circle of trust.
+
+511
+00:40:47,185 --> 00:40:50,959
+You have a circle of trust
+with someone whose diary you stole?
+
+512
+00:40:51,121 --> 00:40:52,104
+Maybe I bought it.
+
+513
+00:40:52,914 --> 00:40:55,467
+And you're hoping to find
+a great secret in there.
+
+514
+00:40:55,635 --> 00:40:59,147
+I've already found it.
+That's why I'm here.
+
+515
+00:41:05,265 --> 00:41:08,080
+Tesla built one for another magician.
+
+516
+00:41:08,241 --> 00:41:11,374
+- Why would you want the same thing?
+- Call it a professional rivalry.
+
+517
+00:41:11,889 --> 00:41:16,045
+Mr. Tesla has built unusual machines
+for unusual people.
+
+518
+00:41:16,209 --> 00:41:17,672
+But he would never talk about it.
+
+519
+00:41:17,842 --> 00:41:20,657
+I understand discretion.
+I just want the machine.
+
+520
+00:41:23,825 --> 00:41:25,648
+Finish your drink.
+
+521
+00:41:26,609 --> 00:41:27,886
+I wanna show you something.
+
+522
+00:41:28,050 --> 00:41:31,149
+I think you'll have a special appreciation
+for our work.
+
+523
+00:41:31,314 --> 00:41:34,576
+- I thought it was a secret.
+- You're a magician.
+
+524
+00:41:34,738 --> 00:41:36,331
+Who's gonna believe you?
+
+525
+00:41:37,585 --> 00:41:39,528
+Not long now.
+
+526
+00:41:39,697 --> 00:41:42,000
+Our equipment requires
+a great deal of current.
+
+527
+00:41:42,161 --> 00:41:45,839
+Tesla electrified the town in exchange
+for using the generators when we need to.
+
+528
+00:41:47,954 --> 00:41:50,889
+We do our tests
+when the townspeople are asleep.
+
+529
+00:41:51,057 --> 00:41:53,545
+Mr. Tesla doesn't wanna scare anyone.
+
+530
+00:42:10,801 --> 00:42:12,623
+Where are the wires?
+
+531
+00:42:14,066 --> 00:42:15,146
+Exactly.
+
+532
+00:42:24,081 --> 00:42:28,010
+- Where's the generator?
+- You saw it last week.
+
+533
+00:42:28,178 --> 00:42:31,024
+- That must be 10 miles from here.
+- Fifteen.
+
+534
+00:42:31,185 --> 00:42:34,316
+And I have to ride all of them
+before I get to bed.
+
+535
+00:42:35,185 --> 00:42:37,705
+I'll send word for you
+in a few days, Mr. Angier.
+
+536
+00:42:37,873 --> 00:42:41,736
+Magic. Real magic.
+
+537
+00:42:43,857 --> 00:42:45,679
+Now appearing only here
+at London's Royal Albert Hall.
+
+538
+00:42:45,840 --> 00:42:47,946
+One of the miracles of our age.
+
+539
+00:42:48,113 --> 00:42:50,154
+A technological marvel.
+
+540
+00:42:50,321 --> 00:42:52,459
+You've never seen anything like it
+in your lives.
+
+541
+00:42:52,624 --> 00:42:54,895
+Your eyes will not believe
+what they're witnessing.
+
+542
+00:42:55,056 --> 00:42:57,991
+The miracle of Nikola Tesla,
+ladies and gentlemen.
+
+543
+00:42:58,162 --> 00:43:00,463
+Free clean power.
+Would you like to know the future?
+
+544
+00:43:00,625 --> 00:43:02,861
+The man speaking now
+is going to change the world.
+
+545
+00:43:03,025 --> 00:43:07,663
+Ladies and gentlemen, come one, come all.
+Immediate seating, no waiting.
+
+546
+00:43:22,321 --> 00:43:25,321
+Ladies and gentlemen, I'm sorry...
+
+547
+00:43:25,489 --> 00:43:27,147
+...but objections have been raised...
+
+548
+00:43:27,313 --> 00:43:30,574
+...concerning the safety...
+- They should be. Does that look safe to you?
+
+549
+00:43:30,736 --> 00:43:33,038
+Part of Thomas Edison's
+smear campaign...
+
+550
+00:43:33,202 --> 00:43:36,911
+...against Mr. Tesla's
+superior alternating current.
+
+551
+00:43:37,073 --> 00:43:38,567
+Mr. Alley, please.
+
+552
+00:43:38,736 --> 00:43:41,126
+We have asked Mr. Tesla
+to reconsider...
+
+553
+00:43:41,297 --> 00:43:43,817
+- which he will not.
+...his presentation.
+
+554
+00:43:43,985 --> 00:43:48,010
+But I've been told he refuses
+to appear under any such restrictions.
+
+555
+00:43:49,041 --> 00:43:51,343
+Clear the hall!
+This thing is gonna blow!
+
+556
+00:43:51,504 --> 00:43:53,993
+- Clear the hall!
+- Ladies and gentlemen, please!
+
+557
+00:43:54,641 --> 00:43:56,582
+Where's the switch?
+
+558
+00:44:00,177 --> 00:44:02,511
+This is all perfectly safe.
+
+559
+00:44:32,209 --> 00:44:33,191
+Hey.
+
+560
+00:44:33,362 --> 00:44:34,855
+Hello, you.
+
+561
+00:44:35,025 --> 00:44:37,675
+Hello, Jess.
+
+562
+00:44:39,984 --> 00:44:42,636
+Have you had a nice day with Mummy?
+
+563
+00:44:44,657 --> 00:44:47,656
+Sarah, I love you.
+
+564
+00:44:47,825 --> 00:44:51,054
+- See? Today it's true.
+- Yeah.
+
+565
+00:44:51,216 --> 00:44:52,809
+Hello.
+
+566
+00:44:53,808 --> 00:44:56,013
+I saw happiness.
+
+567
+00:44:56,336 --> 00:44:59,184
+Happiness that should have been mine.
+
+568
+00:44:59,344 --> 00:45:00,621
+But I was wrong.
+
+569
+00:45:00,784 --> 00:45:05,160
+His notebook reveals
+that he never had the life that I envied.
+
+570
+00:45:05,328 --> 00:45:07,565
+The family life
+that he craves one minute...
+
+571
+00:45:07,728 --> 00:45:11,851
+...he rails against the next,
+demanding freedom.
+
+572
+00:45:12,016 --> 00:45:14,765
+His mind...
+His mind is a divided one.
+
+573
+00:45:14,928 --> 00:45:16,684
+His soul is restless.
+
+574
+00:45:16,848 --> 00:45:22,794
+His wife and child tormented
+by his fickle and contradictory nature.
+
+575
+00:45:26,415 --> 00:45:28,718
+What do you think?
+What do you think you'll call her?
+
+576
+00:45:28,880 --> 00:45:30,090
+I don't know.
+
+577
+00:45:30,257 --> 00:45:32,394
+Everybody needs a name.
+So, what's hers?
+
+578
+00:45:33,296 --> 00:45:34,955
+Maybe Sarah.
+
+579
+00:45:37,167 --> 00:45:39,535
+That's a lovely name.
+That's a lovely name.
+
+580
+00:45:39,696 --> 00:45:42,696
+You talk about what you wanna do
+for the rest of the day.
+
+581
+00:45:42,863 --> 00:45:44,554
+All right? Go on. You talk with her.
+
+582
+00:45:46,992 --> 00:45:48,903
+They're taking her away?
+
+583
+00:45:51,024 --> 00:45:51,973
+To the workhouse?
+
+584
+00:45:55,087 --> 00:45:57,030
+Now, you keep talking.
+
+585
+00:45:59,632 --> 00:46:02,697
+Tell owens I've reconsidered.
+Take it. Go on, take it.
+
+586
+00:46:07,280 --> 00:46:09,254
+It's for the best.
+
+587
+00:46:14,192 --> 00:46:15,947
+Let me see.
+
+588
+00:46:17,168 --> 00:46:21,772
+- I'm gonna learn all the Professor's secrets.
+- Only if I teach you how to read.
+
+589
+00:46:22,383 --> 00:46:24,489
+They're just stupid tricks, right?
+
+590
+00:46:24,657 --> 00:46:27,307
+Haven't helped you
+get out of here, have they?
+
+591
+00:46:28,048 --> 00:46:31,180
+Or can't you undo real locks, Professor?
+
+592
+00:46:32,336 --> 00:46:34,889
+Well, maybe I'm just biding my time.
+
+593
+00:46:35,056 --> 00:46:40,652
+Maybe one day I'll open my hand,
+get your attention, ask:
+
+594
+00:46:40,815 --> 00:46:42,791
+"Are you watching closely?"
+
+595
+00:46:42,960 --> 00:46:45,611
+Maybe a magic word or two.
+
+596
+00:46:47,439 --> 00:46:49,806
+And then I'll be gone.
+
+597
+00:46:52,944 --> 00:46:56,042
+How'd you get so famous, then, eh?
+
+598
+00:46:56,528 --> 00:46:58,087
+Magic.
+
+599
+00:47:01,808 --> 00:47:03,182
+Borden, get back here!
+
+600
+00:47:03,343 --> 00:47:04,750
+Thank you.
+
+601
+00:47:05,360 --> 00:47:07,532
+Shut up! Get him down!
+
+602
+00:47:08,016 --> 00:47:09,838
+Thank you.
+
+603
+00:47:10,128 --> 00:47:11,917
+Who's got a bloody key?
+
+604
+00:47:18,255 --> 00:47:20,643
+February 8th, 1899.
+
+605
+00:47:20,816 --> 00:47:22,703
+Today, finally a breakthrough.
+
+606
+00:47:23,343 --> 00:47:25,383
+Tesla"s agreed to see me.
+
+607
+00:47:32,848 --> 00:47:33,895
+It's perfectly safe.
+
+608
+00:47:55,087 --> 00:47:58,054
+So this is the Great Danton.
+
+609
+00:47:58,223 --> 00:48:02,663
+Mr. Alley has effused about your act to me
+on any number of occasions.
+
+610
+00:48:04,495 --> 00:48:05,902
+Hold out other hand.
+
+611
+00:48:14,255 --> 00:48:16,011
+What's conducting the electricity?
+
+612
+00:48:16,175 --> 00:48:19,339
+Our bodies, Mr. Angier,
+are quite capable of conducting...
+
+613
+00:48:19,503 --> 00:48:21,892
+...and, indeed, producing energy.
+
+614
+00:48:23,407 --> 00:48:25,350
+Have you eaten, Mr. Angier?
+
+615
+00:48:28,303 --> 00:48:30,213
+I need something impossible.
+
+616
+00:48:31,983 --> 00:48:36,490
+You are familiar with the phrase,
+"Man's reach exceeds his grasp"?
+
+617
+00:48:37,008 --> 00:48:38,186
+It's a lie.
+
+618
+00:48:38,351 --> 00:48:40,239
+Man's grasp exceeds his nerve.
+
+619
+00:48:41,327 --> 00:48:44,110
+Society only tolerates
+one change at a time.
+
+620
+00:48:45,551 --> 00:48:48,650
+The first time
+I tried to change the world...
+
+621
+00:48:48,815 --> 00:48:50,377
+...I was hailed as a visionary.
+
+622
+00:48:50,960 --> 00:48:56,229
+Second time,
+I was asked politely to retire.
+
+623
+00:48:57,103 --> 00:49:00,038
+So here I am, enjoying my retirement.
+
+624
+00:49:00,558 --> 00:49:02,382
+Nothing is impossible, Mr. Angier.
+
+625
+00:49:02,543 --> 00:49:04,167
+What you want is simply expensive.
+
+626
+00:49:04,784 --> 00:49:06,670
+If I were to build for you this machine...
+
+627
+00:49:06,830 --> 00:49:09,383
+...you would be presenting it
+merely as illusion?
+
+628
+00:49:09,551 --> 00:49:12,780
+Well, if people actually believed
+the things I did on-stage...
+
+629
+00:49:12,942 --> 00:49:16,390
+...they wouldn't clap, they'd scream.
+I mean, think of sawing a woman in half.
+
+630
+00:49:16,559 --> 00:49:19,309
+Mr. Angier, have you considered
+the cost of such a machine?
+
+631
+00:49:19,471 --> 00:49:21,226
+Price is not an object.
+
+632
+00:49:21,871 --> 00:49:25,100
+Perhaps not,
+but have you considered the cost?
+
+633
+00:49:26,096 --> 00:49:27,306
+I'm not sure I follow.
+
+634
+00:49:28,366 --> 00:49:30,090
+Go home. Forget this thing.
+
+635
+00:49:30,512 --> 00:49:32,267
+I can recognize an obsession.
+
+636
+00:49:32,880 --> 00:49:34,341
+No good will come of it.
+
+637
+00:49:34,511 --> 00:49:36,235
+Hasn't good come of your obsessions?
+
+638
+00:49:36,879 --> 00:49:39,366
+At first.
+But I have followed them too long.
+
+639
+00:49:39,534 --> 00:49:44,751
+I am their slave, and one day,
+they will choose to destroy me.
+
+640
+00:49:46,255 --> 00:49:49,899
+If you understand an obsession,
+then you know you won't change my mind.
+
+641
+00:49:51,184 --> 00:49:52,132
+So be it.
+
+642
+00:49:53,678 --> 00:49:54,857
+Will you build it?
+
+643
+00:49:55,855 --> 00:49:59,203
+I have already begun to build it,
+Mr. Angier.
+
+644
+00:49:59,374 --> 00:50:01,644
+I hope you enjoy the mountain air.
+
+645
+00:50:01,807 --> 00:50:04,043
+This will take some time.
+
+646
+00:50:27,088 --> 00:50:28,875
+I thought you'd gone.
+
+647
+00:50:29,806 --> 00:50:31,878
+I don't really have anywhere to go.
+
+648
+00:50:34,639 --> 00:50:35,849
+You've been sleeping here?
+
+649
+00:50:36,014 --> 00:50:40,236
+Cutter said it would be all right till we get
+another booking. What are you doing?
+
+650
+00:50:41,231 --> 00:50:42,540
+Research.
+
+651
+00:50:42,703 --> 00:50:46,957
+Part of a magician's job is to watch
+his competition, to see what illusions...
+
+652
+00:50:47,118 --> 00:50:49,770
+You're going to do something
+to that man, aren't you?
+
+653
+00:50:49,935 --> 00:50:51,659
+Cutter's hoping you'll let things lie.
+
+654
+00:50:51,822 --> 00:50:54,375
+He says if Borden thinks things
+are even between you two...
+
+655
+00:50:54,543 --> 00:50:55,852
+Even?
+
+656
+00:50:56,399 --> 00:50:58,820
+My wife for a couple of his fingers?
+
+657
+00:50:58,990 --> 00:51:01,773
+He has a family now, right?
+And he's performing again.
+
+658
+00:51:01,933 --> 00:51:05,512
+Borden is living his life just as he always
+intended, as if nothing had happened.
+
+659
+00:51:05,679 --> 00:51:07,652
+And look at... Look at me, all right?
+
+660
+00:51:07,823 --> 00:51:10,572
+- I'm alone and no theater will touch me.
+- Us.
+
+661
+00:51:11,502 --> 00:51:14,055
+You're going to need a better disguise.
+
+662
+00:51:30,477 --> 00:51:31,460
+Need a volunteer.
+
+663
+00:51:32,848 --> 00:51:34,090
+What happened?
+
+664
+00:51:35,151 --> 00:51:37,124
+Did you hurt him?
+
+665
+00:51:38,735 --> 00:51:39,912
+What happened, Robert?
+
+666
+00:51:42,254 --> 00:51:43,595
+You, sir.
+
+667
+00:51:44,269 --> 00:51:46,987
+Just a rubber ball, yes? Thank you.
+
+668
+00:51:47,149 --> 00:51:49,539
+Just a rubber ball, no.
+
+669
+00:51:49,711 --> 00:51:52,777
+Not normal. Not a normal rubber ball.
+
+670
+00:51:52,943 --> 00:51:53,925
+It's magic.
+
+671
+00:51:54,733 --> 00:51:56,589
+He had a new trick.
+
+672
+00:52:09,935 --> 00:52:10,883
+Was it good?
+
+673
+00:52:15,822 --> 00:52:18,123
+It was the greatest magic trick
+I've ever seen.
+
+674
+00:52:23,950 --> 00:52:25,412
+Did they applaud when you saw it?
+
+675
+00:52:25,582 --> 00:52:27,524
+The trick was too good,
+it was too simple.
+
+676
+00:52:27,694 --> 00:52:30,628
+- The audience hardly had time to see it.
+- He's a dreadful magician.
+
+677
+00:52:30,798 --> 00:52:33,220
+No, he's a wonderful magician.
+He's a dreadful showman.
+
+678
+00:52:33,389 --> 00:52:35,529
+He doesn't know how to dress it up,
+how to sell...
+
+679
+00:52:35,695 --> 00:52:37,254
+- How does he do it?
+- Uses a double.
+
+680
+00:52:37,420 --> 00:52:39,910
+No, no, no, it's too simple.
+This is a complex illusion.
+
+681
+00:52:40,079 --> 00:52:42,380
+You only say that
+because you don't know the method.
+
+682
+00:52:42,542 --> 00:52:44,614
+It's a double at the end.
+It's the only way.
+
+683
+00:52:44,782 --> 00:52:46,855
+I've seen him perform the trick
+three times now.
+
+684
+00:52:47,022 --> 00:52:49,389
+- The Prestige is the same man.
+- No, it's not.
+
+685
+00:52:49,550 --> 00:52:51,917
+The same man comes out
+of that second cabinet.
+
+686
+00:52:52,077 --> 00:52:53,126
+It's the same man.
+
+687
+00:52:54,319 --> 00:52:56,620
+He wears padded gloves
+to hide his damaged fingers...
+
+688
+00:52:56,781 --> 00:52:58,570
+...but if you look closely you can tell.
+
+689
+00:53:01,229 --> 00:53:03,750
+He doesn't know how to sell it
+to an audience, but I do.
+
+690
+00:53:03,918 --> 00:53:06,154
+Yeah, well, we can use it
+as a climax to the show.
+
+691
+00:53:06,572 --> 00:53:08,362
+Yes.
+
+692
+00:53:08,526 --> 00:53:11,625
+The man stole my life,
+I'm gonna steal his trick.
+
+693
+00:53:11,790 --> 00:53:14,856
+- We gotta find someone who looks like you.
+- He doesn't use a double.
+
+694
+00:53:15,021 --> 00:53:18,218
+Robert, I don't know
+how Borden does the trick, so either...
+
+695
+00:53:18,383 --> 00:53:21,612
+You either wait for him to retire
+and buy the secret...
+
+696
+00:53:21,774 --> 00:53:23,465
+...or you listen to how I would do it.
+
+697
+00:53:23,630 --> 00:53:28,331
+And the only way that I know how to do it
+is to find you a bloody good double.
+
+698
+00:53:29,230 --> 00:53:30,789
+All right.
+
+699
+00:53:32,014 --> 00:53:34,402
+Take a good look.
+Let's get out there and find me.
+
+700
+00:53:36,527 --> 00:53:38,381
+Look. Look.
+
+701
+00:53:42,317 --> 00:53:43,844
+What's that?
+
+702
+00:53:44,973 --> 00:53:47,940
+That is for you.
+
+703
+00:53:48,109 --> 00:53:49,799
+What's this for?
+
+704
+00:53:49,967 --> 00:53:51,526
+Come here.
+
+705
+00:53:56,493 --> 00:54:00,072
+- I asked you last week. You said you...
+- You caught me in a wrong mood.
+
+706
+00:54:00,301 --> 00:54:01,579
+But you went over all the...
+
+707
+00:54:01,742 --> 00:54:05,125
+Sarah, I'm allowed to change my mind,
+aren't I?
+
+708
+00:54:05,614 --> 00:54:08,876
+The act is taking off,
+soon we'll be in a bigger theater.
+
+709
+00:54:09,037 --> 00:54:10,215
+Things will work out.
+
+710
+00:54:12,559 --> 00:54:14,183
+I can't believe it. Thank you.
+
+711
+00:54:14,349 --> 00:54:16,172
+Thank you. It's beautiful.
+
+712
+00:54:22,607 --> 00:54:24,297
+Gerry?
+
+713
+00:54:24,685 --> 00:54:25,635
+Darling, look at you.
+
+714
+00:54:25,806 --> 00:54:28,455
+Mr. Cutter, Mr. Angier,
+I'd like you to meet Gerald Root.
+
+715
+00:54:33,422 --> 00:54:36,652
+A pleasure.
+Pleasure to meet you fine gentlemen.
+
+716
+00:54:37,197 --> 00:54:40,939
+Would you like for me
+to tell you a little joke? Come here.
+
+717
+00:54:42,701 --> 00:54:44,589
+There we are. Yes?
+
+718
+00:54:44,749 --> 00:54:46,690
+Are you laughing now?
+
+719
+00:54:48,814 --> 00:54:51,497
+Oh, dear, I have to take a piss.
+
+720
+00:54:53,132 --> 00:54:55,816
+- He's out of his mind.
+- Of course. He's an out-of-work actor.
+
+721
+00:54:55,982 --> 00:54:57,705
+He's perfect. He needs a little help...
+
+722
+00:54:57,869 --> 00:55:00,586
+...but when I get done with him,
+he could be your brother.
+
+723
+00:55:00,749 --> 00:55:03,170
+I don't need him to be my brother,
+I need him to be me.
+
+724
+00:55:03,341 --> 00:55:04,835
+Give me a month.
+
+725
+00:55:08,622 --> 00:55:10,344
+Come around.
+
+726
+00:55:11,469 --> 00:55:15,659
+So you open the door and...
+
+727
+00:55:22,604 --> 00:55:24,099
+come on.
+
+728
+00:55:27,853 --> 00:55:31,430
+- Couldn't you have found a softer one?
+- Well, it's not for sleeping on.
+
+729
+00:55:32,014 --> 00:55:33,868
+So if you come down through there...
+
+730
+00:55:36,491 --> 00:55:39,362
+...does Root go up through there?
+- Yep.
+
+731
+00:55:39,756 --> 00:55:41,415
+It's going to be amazing, Robert.
+
+732
+00:55:41,933 --> 00:55:45,545
+Well, it has to be.
+Borden's trick is getting noticed.
+
+733
+00:55:47,532 --> 00:55:49,803
+The place was packed today.
+
+734
+00:55:51,404 --> 00:55:53,064
+You went and saw his show again.
+
+735
+00:55:53,229 --> 00:55:55,498
+Ready to meet yourself, Mr. Angier?
+
+736
+00:56:03,789 --> 00:56:05,731
+All I have to do is keep myself drunk...
+
+737
+00:56:05,902 --> 00:56:08,071
+...and no one will be able
+to tell the difference.
+
+738
+00:56:08,237 --> 00:56:10,059
+Have a little faith, sir.
+
+739
+00:56:10,221 --> 00:56:14,890
+Now, would you favor us
+with a performance, Mr. Root?
+
+740
+00:56:18,637 --> 00:56:20,012
+Jesus.
+
+741
+00:56:34,765 --> 00:56:37,831
+Yes, you would drink too
+if you knew the world half as well as I do.
+
+742
+00:56:41,517 --> 00:56:43,011
+Did you think you were unique?
+
+743
+00:56:43,180 --> 00:56:45,570
+I have been caesar. I played Faust.
+
+744
+00:56:45,742 --> 00:56:48,589
+How difficult could it possibly be
+to play the Great Danton?
+
+745
+00:56:48,749 --> 00:56:51,781
+You can go back to being yourself now,
+Root, for nothing.
+
+746
+00:56:51,949 --> 00:56:54,021
+I'd rather be him for now.
+
+747
+00:56:54,189 --> 00:56:56,872
+I find it amusing.
+
+748
+00:57:00,141 --> 00:57:04,036
+My liege, I did deny no prisoners.
+
+749
+00:57:05,132 --> 00:57:06,954
+- You look wonderful.
+- Oh, thank you.
+
+750
+00:57:07,117 --> 00:57:10,085
+Root has to keep a low profile.
+Anyone sees him, the game's up.
+
+751
+00:57:10,253 --> 00:57:13,067
+I don't know how you do these things.
+I'm not sure I wanna know.
+
+752
+00:57:13,453 --> 00:57:15,525
+Have you thought
+what we should call the trick?
+
+753
+00:57:15,692 --> 00:57:16,844
+There's no point in being coy. Borden
+calls his trick "The Transported Man."
+
+754
+00:57:16,844 --> 00:57:19,113
+There's no point in being coy. Borden
+calls his trick "The Transported Man."
+
+755
+00:57:23,245 --> 00:57:25,733
+Ladies and gentlemen,
+much of what you've seen tonight...
+
+756
+00:57:25,901 --> 00:57:30,919
+...may be termed as illusions
+or entertaining trifles.
+
+757
+00:57:34,380 --> 00:57:35,461
+Alas...
+
+758
+00:57:37,548 --> 00:57:39,915
+...I cannot claim
+this next feat as illusion.
+
+759
+00:57:40,780 --> 00:57:41,893
+Watch carefully.
+
+760
+00:57:43,308 --> 00:57:45,675
+You'll see no trickery...
+
+761
+00:57:46,125 --> 00:57:47,619
+...for no trickery is employed.
+
+762
+00:57:48,748 --> 00:57:51,945
+Merely a technique familiar
+to certain citizens of the orient...
+
+763
+00:57:52,108 --> 00:57:54,212
+...and various holy men
+of the Himalayas.
+
+764
+00:57:57,516 --> 00:58:00,135
+Indeed, many of you
+may be familiar with this technique...
+
+765
+00:58:00,301 --> 00:58:03,201
+...but for those of you who aren't,
+do not be alarmed...
+
+766
+00:58:03,372 --> 00:58:06,306
+...what you're about to see
+is considered safe.
+
+767
+00:58:37,005 --> 00:58:38,978
+To our achievement.
+
+768
+00:58:39,660 --> 00:58:42,179
+The manager says
+he's never seen a reaction like it.
+
+769
+00:58:42,348 --> 00:58:45,446
+At least he got to see it.
+I spent the ovation hiding under the stage.
+
+770
+00:58:45,612 --> 00:58:47,946
+No one cares about the man
+who disappears into the box.
+
+771
+00:58:48,107 --> 00:58:49,734
+They care about the one who comes out.
+
+772
+00:58:49,900 --> 00:58:52,582
+- I care about the man in the box.
+- Thank you.
+
+773
+00:58:52,748 --> 00:58:55,977
+I don't know. Maybe...
+Maybe we could switch before the trick.
+
+774
+00:58:56,139 --> 00:58:58,180
+I could be the Prestige
+and Root ends up below.
+
+775
+00:58:58,348 --> 00:59:00,934
+No, the anticipation of the trick
+is everything.
+
+776
+00:59:01,101 --> 00:59:04,003
+We need your showmanship
+to build up the suspense.
+
+777
+00:59:04,172 --> 00:59:07,303
+Once Root opens his mouth, it's over.
+He can't introduce this trick.
+
+778
+00:59:07,467 --> 00:59:10,185
+Of course I can. I'm the Great Danton.
+
+779
+00:59:10,348 --> 00:59:13,696
+Root, you bloody fool.
+Get out of that wardrobe and makeup.
+
+780
+00:59:13,867 --> 00:59:16,290
+Anyone could walk in here at any minute.
+
+781
+00:59:16,460 --> 00:59:18,371
+Congratulations, all.
+
+782
+00:59:18,561 --> 00:59:21,825
+Life is not full of these moments, Robbie.
+we worked hard.
+
+783
+00:59:21,987 --> 00:59:23,515
+we need to celebrate properly.
+
+784
+00:59:27,045 --> 00:59:29,464
+what's wrong? Is it your wife?
+
+785
+00:59:29,634 --> 00:59:31,773
+No. No, it's the trick.
+It isn't good enough.
+
+786
+00:59:31,937 --> 00:59:35,005
+Borden's trick is nothing compared to ours.
+He has no style.
+
+787
+00:59:35,170 --> 00:59:38,848
+well, he doesn't spend the finale
+hiding under the stage.
+
+788
+00:59:39,011 --> 00:59:40,637
+I need to know how he does it.
+
+789
+00:59:40,803 --> 00:59:44,031
+-why?
+-So I can do it better.
+
+790
+00:59:46,146 --> 00:59:48,002
+I need you to go and work for him.
+
+791
+00:59:51,460 --> 00:59:53,053
+work for him? Are you joking?
+
+792
+00:59:54,308 --> 00:59:55,388
+You'll be my spy.
+
+793
+00:59:55,556 --> 00:59:57,531
+we just got our start.
+You want me to leave?
+
+794
+00:59:57,701 --> 00:59:59,643
+That's how we advance.
+Think of it, olivia.
+
+795
+00:59:59,812 --> 01:00:03,294
+we got people excited, but imagine
+what we could do with the reaI illusion.
+
+796
+01:00:03,461 --> 01:00:07,136
+we'd have the greatest magic act
+anyone's ever seen.
+
+797
+01:00:07,299 --> 01:00:08,642
+He knows I work for you.
+
+798
+01:00:08,803 --> 01:00:11,937
+Exactly why he'll wanna hire you.
+He'll want my secret.
+
+799
+01:00:12,101 --> 01:00:15,996
+-why would he trust me?
+-Because you're gonna tell him the truth.
+
+800
+01:00:27,876 --> 01:00:28,825
+Good girI.
+
+801
+01:00:31,940 --> 01:00:35,290
+You must be curious to see what
+so much money has bought you, Mr. Angier.
+
+802
+01:00:35,909 --> 01:00:38,659
+It's fitting you should be here
+for maiden voyage.
+
+803
+01:00:38,822 --> 01:00:40,446
+Your hat.
+
+804
+01:00:48,261 --> 01:00:50,400
+You might wanna stand back.
+
+805
+01:01:10,375 --> 01:01:11,323
+I don't understand.
+
+806
+01:01:11,495 --> 01:01:13,698
+Perhaps it would be best
+if you left us to it.
+
+807
+01:01:13,863 --> 01:01:15,902
+-Is there a problem, Mr. Tesla?
+-No, no, no.
+
+808
+01:01:16,070 --> 01:01:17,530
+-come back next week.
+-Next week?
+
+809
+01:01:17,701 --> 01:01:19,709
+-come back-- Next week, it'll be fine.
+-Tesla.
+
+810
+01:01:19,876 --> 01:01:22,529
+She's just a little temperamentaI
+sometimes.
+
+811
+01:01:27,239 --> 01:01:29,921
+-Interesting workshop.
+-Yeah, we make do.
+
+812
+01:01:30,086 --> 01:01:32,321
+-My name is olivia wenscombe--
+-I know who you are.
+
+813
+01:01:32,487 --> 01:01:33,731
+You here to steaI my show?
+
+814
+01:01:33,895 --> 01:01:35,616
+I'm here to give it what it's missing.
+
+815
+01:01:35,781 --> 01:01:38,816
+-Yeah? what might that be?
+-Me.
+
+816
+01:01:40,327 --> 01:01:44,102
+I was just saying that, wasn't I, Bernard?
+woman's touch.
+
+817
+01:01:44,261 --> 01:01:46,019
+-I've left Angier.
+-All right.
+
+818
+01:01:46,182 --> 01:01:48,799
+-I want a job.
+-Yeah?
+
+819
+01:01:48,968 --> 01:01:51,815
+-I know you've no reason to trust me--
+-why wouldn't I trust you?
+
+820
+01:01:51,975 --> 01:01:55,683
+I mean, you're only the mistress
+of my enemy. why wouldn't I trust you?
+
+821
+01:01:57,190 --> 01:01:59,013
+-Mr. Borden--
+-AIfred.
+
+822
+01:02:01,349 --> 01:02:02,844
+I'm going to tell you the truth.
+
+823
+01:02:03,014 --> 01:02:06,047
+Now that is a slippery notion
+in our line of work...
+
+824
+01:02:06,214 --> 01:02:07,458
+...isn't it, Miss wenscombe?
+
+825
+01:02:09,510 --> 01:02:11,966
+I am here because he sent me here.
+
+826
+01:02:12,134 --> 01:02:14,503
+He wants me to work for you
+and steaI your secret.
+
+827
+01:02:14,664 --> 01:02:16,257
+what does he need my secret for?
+
+828
+01:02:16,423 --> 01:02:17,765
+His trick is top-notch.
+
+829
+01:02:18,343 --> 01:02:21,443
+He vanishes and then he reappears
+on the other side of the stage...
+
+830
+01:02:21,609 --> 01:02:25,285
+...mute, overweight and,
+unless I'm mistaken, very drunk.
+
+831
+01:02:25,448 --> 01:02:27,042
+It's astonishing. How does he do it?
+
+832
+01:02:27,465 --> 01:02:32,132
+And tell me, olivia, does he enjoy
+taking his bows under the stage?
+
+833
+01:02:32,296 --> 01:02:33,276
+No, it's killing him.
+
+834
+01:02:33,446 --> 01:02:35,355
+He's obsessed
+with discovering your methods.
+
+835
+01:02:35,528 --> 01:02:36,673
+He thinks of nothing eIse.
+
+836
+01:02:36,840 --> 01:02:39,775
+He takes no pleasure in our success,
+and I've had enough.
+
+837
+01:02:39,946 --> 01:02:41,319
+There is no future with him.
+
+838
+01:02:43,432 --> 01:02:46,914
+He sent me here to steaI your secrets,
+but I've actually come to offer you his.
+
+839
+01:02:47,399 --> 01:02:50,815
+This is the truth, is it?
+
+840
+01:02:55,143 --> 01:02:56,769
+Think you'd better get dressed, sir.
+
+841
+01:02:56,936 --> 01:02:59,075
+Root, you're late
+and more drunk than usuaI.
+
+842
+01:02:59,241 --> 01:03:01,761
+-Now, get down below stairs right away.
+-No.
+
+843
+01:03:03,274 --> 01:03:06,238
+No, we need to have
+a little chat, Mr. cutter.
+
+844
+01:03:06,408 --> 01:03:07,390
+we have a problem.
+
+845
+01:03:07,560 --> 01:03:10,016
+cutter, Borden is performing
+right across the street.
+
+846
+01:03:10,184 --> 01:03:12,704
+Yeah? we have a bigger problem.
+
+847
+01:03:13,801 --> 01:03:16,615
+Root. He's realized
+he can make demands.
+
+848
+01:03:17,449 --> 01:03:18,692
+wha--? He's blackmailing us?
+
+849
+01:03:18,855 --> 01:03:22,852
+I was surprised, to tell you the truth.
+It usually takes them longer to figure it out.
+
+850
+01:03:23,016 --> 01:03:25,700
+-well, how much does he want?
+-well, it makes no difference.
+
+851
+01:03:25,865 --> 01:03:29,127
+-we gotta stop doing the trick.
+-Stop the trick? cutter, look at this.
+
+852
+01:03:29,289 --> 01:03:31,329
+well, look at yesterday's,
+look at last week...
+
+853
+01:03:31,498 --> 01:03:34,726
+...where they said you were
+the premier stage performer in London.
+
+854
+01:03:34,888 --> 01:03:36,383
+Not magician, mind you.
+
+855
+01:03:36,553 --> 01:03:39,042
+-Performer of any kind.
+-well, what's your point?
+
+856
+01:03:39,211 --> 01:03:41,381
+My point is, Robert,
+is you've climbed too high...
+
+857
+01:03:41,544 --> 01:03:43,650
+...to get away
+with professionaI embarrassment.
+
+858
+01:03:44,234 --> 01:03:46,917
+we don't do any tricks we can't controI.
+
+859
+01:03:49,035 --> 01:03:50,757
+Just pay him whatever he wants for now.
+
+860
+01:03:50,921 --> 01:03:54,184
+we keep doing the trick untiI Borden opens
+and then we'll phase it out.
+
+861
+01:03:55,242 --> 01:03:56,616
+All right.
+
+862
+01:03:59,210 --> 01:04:03,040
+Cutter was always surprised
+how fast Root turned bad.
+
+863
+01:04:03,593 --> 01:04:07,422
+To what do I owe the pleasure
+of this rather weIcome pint of ale?
+
+864
+01:04:07,593 --> 01:04:10,822
+You're the Great Danton, aren't you?
+
+865
+01:04:10,985 --> 01:04:14,182
+of course I am, but don't advertise it
+because I'll be mobbed with fans.
+
+866
+01:04:14,347 --> 01:04:16,170
+We paid him enough
+to keep him in beers...
+
+867
+01:04:16,330 --> 01:04:18,369
+...so you wouldn"t expect him
+to rock the boat.
+
+868
+01:04:18,538 --> 01:04:20,992
+Indeed, many of you
+may be familiar with this technique.
+
+869
+01:04:21,163 --> 01:04:24,642
+But for those of you who aren't,
+do not be alarmed...
+
+870
+01:04:24,809 --> 01:04:27,713
+...what you're about to see
+is considered safe.
+
+871
+01:04:27,883 --> 01:04:29,127
+And who are you?
+
+872
+01:04:29,291 --> 01:04:34,888
+I am a humble admirer
+and a fellow practitioner.
+
+873
+01:04:35,052 --> 01:04:36,162
+very good.
+
+874
+01:04:45,259 --> 01:04:47,846
+-Another?
+-oh, if you insist.
+
+875
+01:04:48,010 --> 01:04:49,833
+-Another.
+-I'm not performing tonight.
+
+876
+01:04:49,996 --> 01:04:51,654
+well, I'm only doing one show...
+
+877
+01:04:51,820 --> 01:04:54,885
+...but to be frank, my people
+pretty much run things these days.
+
+878
+01:04:55,050 --> 01:04:56,097
+Get up there!
+
+879
+01:04:57,514 --> 01:04:58,463
+Get up!
+
+880
+01:04:58,636 --> 01:05:00,708
+Your illusion, The Transported Man...
+
+881
+01:05:00,876 --> 01:05:03,725
+...I'm not claiming
+to know your methods or anything...
+
+882
+01:05:04,396 --> 01:05:10,595
+...but I had a similar trick in my act,
+and I used a double.
+
+883
+01:05:11,946 --> 01:05:12,995
+I see. very good.
+
+884
+01:05:13,162 --> 01:05:15,616
+well, it was, and then it went bad.
+
+885
+01:05:15,787 --> 01:05:20,970
+what I didn't count on, was that
+when I incorporated this bloke into my act...
+
+886
+01:05:21,130 --> 01:05:23,019
+...he had complete power over me.
+
+887
+01:05:24,300 --> 01:05:25,707
+complete power, you say.
+
+888
+01:05:42,570 --> 01:05:47,525
+Be very careful giving someone
+that power over you.
+
+889
+01:05:49,803 --> 01:05:51,692
+well, thank you.
+
+890
+01:05:51,852 --> 01:05:54,025
+Yes, thank you for the warning.
+
+891
+01:05:56,110 --> 01:05:58,020
+cheers.
+
+892
+01:05:58,734 --> 01:06:00,642
+I cannot claim this next feat as illusion.
+
+893
+01:06:00,811 --> 01:06:04,840
+what you're about to see
+is considered safe.
+
+894
+01:06:43,214 --> 01:06:45,318
+The Great Danton.
+
+895
+01:06:51,439 --> 01:06:53,031
+I apologize.
+
+896
+01:06:53,198 --> 01:06:56,776
+There simply is too much magic...
+
+897
+01:06:56,943 --> 01:07:01,732
+...for my stage at the Pantages
+across the street.
+
+898
+01:07:03,055 --> 01:07:05,476
+-Bravo!
+-Bravo!
+
+899
+01:07:05,645 --> 01:07:08,908
+Pardon my intrusion.
+
+900
+01:07:09,551 --> 01:07:12,268
+-Bravo!
+-And go easy on the poor chap.
+
+901
+01:07:12,430 --> 01:07:15,398
+He does try so very hard.
+
+902
+01:07:17,902 --> 01:07:19,658
+I don't know how Borden found him.
+
+903
+01:07:19,821 --> 01:07:21,448
+Kept him under wraps, I was careful.
+
+904
+01:07:21,613 --> 01:07:23,555
+Yeah, well, he did.
+
+905
+01:07:24,368 --> 01:07:25,415
+Do you think it was her?
+
+906
+01:07:32,559 --> 01:07:35,081
+You weren't expecting me?
+
+907
+01:07:35,247 --> 01:07:37,798
+I was expecting you sooner.
+Your message said afternoon.
+
+908
+01:07:37,967 --> 01:07:40,008
+It takes a bit
+for me to get around these days.
+
+909
+01:07:40,336 --> 01:07:41,896
+He's taken everything from me.
+
+910
+01:07:42,063 --> 01:07:44,648
+My wife, my career, now you.
+
+911
+01:07:44,814 --> 01:07:46,124
+what do you mean?
+You sent me--
+
+912
+01:07:46,287 --> 01:07:48,840
+I sent you to steaI his secret,
+not to improve his act.
+
+913
+01:07:49,007 --> 01:07:50,414
+-That's my job.
+-or fall in love.
+
+914
+01:07:50,575 --> 01:07:53,033
+-I did everything you asked!
+-Yes? Yes?
+
+915
+01:07:53,199 --> 01:07:55,620
+-Then how does he do it?
+-cutter was right, a double.
+
+916
+01:07:55,790 --> 01:07:58,922
+-of course Borden said that.
+-He didn't say anything. I've seen things.
+
+917
+01:07:59,088 --> 01:08:02,699
+Makeup, glasses, wigs. we don't use it
+for the show, but I've seen it backstage.
+
+918
+01:08:02,863 --> 01:08:06,441
+It's misdirection. He leaves things around
+to make you think he's using a double.
+
+919
+01:08:06,606 --> 01:08:08,395
+All the time?
+He doesn't know when I look.
+
+920
+01:08:08,559 --> 01:08:10,413
+All the time, olivia!
+
+921
+01:08:10,576 --> 01:08:12,780
+That's who he is! That's what it takes!
+
+922
+01:08:12,944 --> 01:08:15,213
+He lives his act! Don't you see?
+
+923
+01:08:17,264 --> 01:08:20,330
+Just because you're sleeping with him
+doesn't mean he trusts you.
+
+924
+01:08:20,496 --> 01:08:22,732
+You think you can see everything,
+don't you?
+
+925
+01:08:22,897 --> 01:08:26,376
+But the Great Danton is a blind fooI.
+His notebook.
+
+926
+01:08:28,368 --> 01:08:30,407
+You stole it?
+
+927
+01:08:30,576 --> 01:08:32,267
+I borrowed it for tonight.
+
+928
+01:08:32,432 --> 01:08:34,320
+I thought you could translate it,
+but now--
+
+929
+01:08:34,480 --> 01:08:35,495
+-I can't.
+-You can't?
+
+930
+01:08:35,664 --> 01:08:38,382
+olivia, no one can, it's a cipher.
+
+931
+01:08:38,546 --> 01:08:41,361
+Even with the keyword
+it would take months to decode.
+
+932
+01:08:41,841 --> 01:08:44,655
+-And without the keyword?
+-Perhaps never.
+
+933
+01:08:44,817 --> 01:08:46,159
+-we'll see.
+-we will not see.
+
+934
+01:08:46,321 --> 01:08:49,135
+If I don't get that back to him tomorrow,
+he'll know I took it.
+
+935
+01:08:49,296 --> 01:08:51,369
+-Leave him.
+-I can't. He knows where I live.
+
+936
+01:08:52,720 --> 01:08:54,576
+This is his diary, olivia.
+
+937
+01:08:54,736 --> 01:08:57,256
+All of his secrets
+are right here in my hands.
+
+938
+01:08:58,224 --> 01:08:59,402
+won't bring your wife back.
+
+939
+01:08:59,571 --> 01:09:02,603
+I don't care about my wife,
+I care about his secret.
+
+940
+01:09:14,896 --> 01:09:16,620
+Look...
+
+941
+01:09:17,616 --> 01:09:19,690
+...I'll go to his workshop
+and stage a break-in.
+
+942
+01:09:19,856 --> 01:09:23,851
+-He'll know you took it.
+-Yes, me. Not you.
+
+943
+01:09:24,018 --> 01:09:25,708
+Understand?
+
+944
+01:09:34,226 --> 01:09:35,437
+Robert.
+
+945
+01:09:37,330 --> 01:09:39,883
+I have fallen in love with him.
+
+946
+01:09:40,852 --> 01:09:43,435
+Then I know how hard
+this has been for you.
+
+947
+01:09:51,475 --> 01:09:52,653
+Notebook?
+
+948
+01:09:55,443 --> 01:09:57,233
+Then he's just getting started.
+
+949
+01:10:26,451 --> 01:10:27,945
+-Good evening.
+-Professor.
+
+950
+01:10:29,682 --> 01:10:30,761
+Professor.
+
+951
+01:10:31,219 --> 01:10:32,910
+-Here.
+-could I get your autograph?
+
+952
+01:10:33,076 --> 01:10:34,481
+-I'm waIking tonight.
+-Professor.
+
+953
+01:10:34,644 --> 01:10:36,367
+Let him come. I don't care.
+
+954
+01:10:36,533 --> 01:10:38,835
+-Professor.
+-Professor.
+
+955
+01:12:00,118 --> 01:12:02,484
+-You all right?
+-I'm alive.
+
+956
+01:12:02,645 --> 01:12:04,653
+Saves me cutting you an air hole.
+
+957
+01:12:18,165 --> 01:12:20,532
+-I'm impressed.
+-why's that?
+
+958
+01:12:20,694 --> 01:12:23,084
+You're finally getting your hands dirty.
+
+959
+01:12:23,606 --> 01:12:26,290
+It's what a good trick costs, Angier.
+
+960
+01:12:26,453 --> 01:12:27,730
+Risk.
+
+961
+01:12:27,893 --> 01:12:29,072
+Sacrifice.
+
+962
+01:12:29,588 --> 01:12:33,102
+The sacrifice, I'm afraid, is gonna be yours,
+unless you give me what I want.
+
+963
+01:12:34,518 --> 01:12:36,493
+-which is?
+-Your secret.
+
+964
+01:12:37,014 --> 01:12:38,803
+My secret?
+
+965
+01:12:38,968 --> 01:12:41,141
+Your method for The Transported Man.
+
+966
+01:12:41,302 --> 01:12:43,788
+Fallon wouldn't tell me.
+He doesn't seem to taIk at all.
+
+967
+01:12:43,958 --> 01:12:45,169
+You have my notebook.
+
+968
+01:12:45,333 --> 01:12:47,189
+Useless without the keyword.
+
+969
+01:12:48,629 --> 01:12:50,191
+write down your method, Mr. Borden.
+
+970
+01:12:50,359 --> 01:12:52,148
+Describe it in full.
+
+971
+01:13:04,696 --> 01:13:07,182
+I want the whole method,
+not the keyword.
+
+972
+01:13:07,351 --> 01:13:09,654
+I don't even know
+if your secret's in your notebook.
+
+973
+01:13:09,817 --> 01:13:11,987
+The keyword is the method.
+
+974
+01:13:15,641 --> 01:13:16,753
+where's my ingenieur?
+
+975
+01:13:23,768 --> 01:13:26,103
+-Alive?
+-How fast can you dig?
+
+976
+01:13:28,569 --> 01:13:31,417
+Fallon! You hear me? Fallon!
+
+977
+01:13:32,760 --> 01:13:35,215
+-How's the arm?
+-Still attached.
+
+978
+01:13:36,696 --> 01:13:38,932
+-Did you find your answer?
+-our answer.
+
+979
+01:13:39,095 --> 01:13:41,777
+cutter, I haven't looked yet.
+I wanted you to share this.
+
+980
+01:13:41,943 --> 01:13:44,311
+I aIready know how he does it, Robert.
+
+981
+01:13:44,471 --> 01:13:47,222
+The same way he aIways has.
+The same way as we do.
+
+982
+01:13:47,383 --> 01:13:49,654
+It's just that you want something more.
+
+983
+01:13:49,816 --> 01:13:51,343
+well, let's find out then,
+shall we?
+
+984
+01:13:56,632 --> 01:13:57,875
+what does it mean?
+
+985
+01:14:05,623 --> 01:14:07,796
+It means, cutter,
+we have a journey ahead of us.
+
+986
+01:14:07,959 --> 01:14:10,578
+-To America.
+-Robert?
+
+987
+01:14:10,745 --> 01:14:12,786
+Listen to me.
+
+988
+01:14:13,688 --> 01:14:16,919
+obsession is a young man's game.
+
+989
+01:14:17,082 --> 01:14:20,856
+-oh, come on.
+-I can't follow you any further in it.
+
+990
+01:14:22,044 --> 01:14:23,701
+I can't. I'm sorry.
+
+991
+01:14:27,834 --> 01:14:29,263
+Then the rest is up to me.
+
+992
+01:14:31,289 --> 01:14:32,849
+I'm sorry.
+
+993
+01:14:37,850 --> 01:14:41,112
+Good evening. Hello, darling.
+
+994
+01:14:41,530 --> 01:14:42,839
+champagne, your finest.
+
+995
+01:14:43,546 --> 01:14:45,848
+I didn't know we were
+going to be joined for dinner.
+
+996
+01:14:46,009 --> 01:14:48,825
+-AbsoIutely. we are celebrating.
+-Miss wenscombe.
+
+997
+01:14:48,985 --> 01:14:51,800
+Mr. Fallon.
+well, what are we celebrating?
+
+998
+01:14:51,960 --> 01:14:54,295
+well, we've hit upon a new trick,
+haven't we, Fallon?
+
+999
+01:14:54,456 --> 01:14:57,239
+-what trick, Freddy?
+-Yes, Freddy, what trick?
+
+1000
+01:14:57,402 --> 01:15:01,495
+I am going to bury myseIf alive
+every night...
+
+1001
+01:15:01,657 --> 01:15:05,270
+...and then someone will come along
+and dig me up. wonderful.
+
+1002
+01:15:05,434 --> 01:15:09,176
+-No, I think my husband's had quite enough.
+-No, pour the champagne. come on, pour--
+
+1003
+01:15:09,338 --> 01:15:11,955
+Right. Sarah, don't taIk to me like that.
+I'm not a child.
+
+1004
+01:15:12,121 --> 01:15:14,009
+-Perhaps it would--
+-Perhaps, Mr. Fallon...
+
+1005
+01:15:14,171 --> 01:15:17,104
+...you might escort Miss wenscombe home.
+My husband's being a bore.
+
+1006
+01:15:17,274 --> 01:15:20,688
+-I see no reason why you have to suffer.
+-oh, please. Don't ruin this evening.
+
+1007
+01:15:23,993 --> 01:15:27,409
+Good night, Mrs. Borden.
+Good night, Freddy.
+
+1008
+01:15:31,066 --> 01:15:33,106
+-''Freddy''?
+-well, that's my name.
+
+1009
+01:15:33,276 --> 01:15:37,367
+-Not at home.
+-well, I'm not aIways at home, am I?
+
+1010
+01:15:38,298 --> 01:15:41,201
+well, couldn't you have at least
+taken off the beard?
+
+1011
+01:15:41,371 --> 01:15:44,754
+Sarah, I just came from
+the bloody theater just now.
+
+1012
+01:15:44,922 --> 01:15:46,549
+All right? And I'm out in public.
+
+1013
+01:15:46,715 --> 01:15:49,715
+-Everybody eIse loves it.
+-why are you being like this, AIfred?
+
+1014
+01:15:50,332 --> 01:15:52,535
+I had a terrible ordeaI today.
+
+1015
+01:15:52,893 --> 01:15:57,148
+I thought that something very precious...
+
+1016
+01:15:57,309 --> 01:15:59,131
+...had been lost to me.
+
+1017
+01:15:59,290 --> 01:16:02,258
+So I just wanted to celebrate.
+Just a little.
+
+1018
+01:16:03,036 --> 01:16:04,597
+All right, what?
+
+1019
+01:16:04,764 --> 01:16:06,421
+what did you lose?
+
+1020
+01:16:10,811 --> 01:16:12,121
+I see, more secrets.
+
+1021
+01:16:13,053 --> 01:16:16,019
+Sarah, secrets are my life.
+
+1022
+01:16:17,979 --> 01:16:19,921
+-our life.
+-No, AIfred, stop.
+
+1023
+01:16:20,090 --> 01:16:23,473
+This isn't you. Stop performing.
+
+1024
+01:16:46,716 --> 01:16:49,138
+I thought I had the place
+to myseIf, Mr. Brent.
+
+1025
+01:16:49,310 --> 01:16:50,617
+Unexpected guests.
+
+1026
+01:16:50,781 --> 01:16:54,074
+Not very polite. A lot of questions.
+
+1027
+01:16:54,235 --> 01:16:56,756
+First I thought they might work
+for the government.
+
+1028
+01:16:56,925 --> 01:16:58,713
+-No?
+-worse.
+
+1029
+01:16:58,878 --> 01:17:00,983
+They work for Thomas Edison.
+
+1030
+01:17:02,302 --> 01:17:04,603
+Today, a most curious development.
+
+1031
+01:17:04,764 --> 01:17:08,627
+His assistant came to us
+with a proposition.
+
+1032
+01:17:09,406 --> 01:17:12,535
+Obviously, Angier has sent her
+and told her to admit as much.
+
+1033
+01:17:12,701 --> 01:17:15,319
+Does he enjoy taking
+his bows under the stage?
+
+1034
+01:17:15,485 --> 01:17:18,997
+He sent me here to steaI your secrets,
+but I've actually come to offer you his.
+
+1035
+01:17:19,484 --> 01:17:22,900
+This is the truth, is it?
+
+1036
+01:17:30,716 --> 01:17:33,880
+No, that's what he told me to tell you.
+The truth...
+
+1037
+01:17:34,045 --> 01:17:37,690
+...is that I loved him, and I stood by him,
+and he sent me to you...
+
+1038
+01:17:37,853 --> 01:17:41,082
+...like he would send a stagehand
+to pick up his shirts.
+
+1039
+01:17:41,245 --> 01:17:43,799
+I hate him for that.
+
+1040
+01:17:44,125 --> 01:17:47,803
+I can spot Angier's methods
+from the back of the theater.
+
+1041
+01:17:48,927 --> 01:17:50,869
+So, what could you possibly
+have to offer me?
+
+1042
+01:17:51,359 --> 01:17:54,008
+You know how he does his tricks,
+but you can't understand...
+
+1043
+01:17:54,175 --> 01:17:56,541
+...why no one can see yours are better.
+You hide this.
+
+1044
+01:17:56,702 --> 01:18:00,476
+I had to look very closely to spot it when
+you were performing The Transported Man...
+
+1045
+01:18:00,638 --> 01:18:03,159
+...but this makes you unique.
+
+1046
+01:18:03,328 --> 01:18:05,398
+It shows the audience
+you aren't using a double.
+
+1047
+01:18:05,566 --> 01:18:07,572
+You mustn't hide it,
+display it proudly.
+
+1048
+01:18:07,743 --> 01:18:11,834
+I'm sure it takes great skill
+to perform illusions with one good hand.
+
+1049
+01:18:12,288 --> 01:18:14,229
+Yeah, it does.
+
+1050
+01:18:15,712 --> 01:18:18,166
+So let people know.
+
+1051
+01:18:18,814 --> 01:18:22,394
+You could be so much more than he is,
+and I can show you how.
+
+1052
+01:18:23,869 --> 01:18:25,561
+I think she"s telling the truth.
+
+1053
+01:18:26,398 --> 01:18:28,438
+I think we cannot trust her.
+
+1054
+01:18:31,901 --> 01:18:34,204
+But I love her. I need her.
+
+1055
+01:18:35,455 --> 01:18:38,389
+To open myself to such a relationship...
+
+1056
+01:18:38,560 --> 01:18:42,268
+...to the dangers of such an affair...
+
+1057
+01:18:42,753 --> 01:18:46,941
+...I need assurances of fidelity. Of love.
+
+1058
+01:18:47,998 --> 01:18:49,427
+But how to be sure?
+
+1059
+01:18:51,744 --> 01:18:55,802
+I know a way.
+It"s the only way to know her mind.
+
+1060
+01:18:55,966 --> 01:18:57,561
+How could he send you away?
+
+1061
+01:18:59,360 --> 01:19:01,148
+She must help me rid ourselves
+of Angier.
+
+1062
+01:19:08,768 --> 01:19:11,451
+Today, my mistress proves
+her truthfulness.
+
+1063
+01:19:11,617 --> 01:19:13,789
+Not to me, you understand.
+
+1064
+01:19:13,984 --> 01:19:15,894
+I"ve been convinced
+since she led me to Root.
+
+1065
+01:19:16,065 --> 01:19:21,595
+Today, Olivia proves her love for me
+to you, Angier.
+
+1066
+01:19:21,758 --> 01:19:23,581
+Yes, Angier.
+
+1067
+01:19:23,745 --> 01:19:25,947
+She gave you this notebook
+at my request.
+
+1068
+01:19:26,114 --> 01:19:31,067
+And, yes, ''Tesla '' is merely the key
+to my diary, not to my trick.
+
+1069
+01:19:31,232 --> 01:19:35,574
+Did you really think I"d part
+with my secret so easily after so much?
+
+1070
+01:19:35,743 --> 01:19:36,923
+Goodbye, Angier.
+
+1071
+01:19:37,088 --> 01:19:41,016
+May you find solace for your thwarted
+ambition back in your American home.
+
+1072
+01:19:50,817 --> 01:19:51,266
+Tesla!
+
+1073
+01:19:53,568 --> 01:19:57,976
+Tesla! Alley! Alley!
+
+1074
+01:19:58,146 --> 01:20:00,446
+Tesla never made a machine
+like the one I asked for.
+
+1075
+01:20:00,609 --> 01:20:03,227
+-we never said he had.
+-But you let me believe that he had.
+
+1076
+01:20:03,393 --> 01:20:05,913
+You stole my money because
+your funding had been cut off.
+
+1077
+01:20:06,082 --> 01:20:09,692
+You've been shooting sparks at my top hat,
+laughing at me all along...
+
+1078
+01:20:09,858 --> 01:20:12,224
+...while using my money
+to stave off ruin.
+
+1079
+01:20:13,217 --> 01:20:15,072
+-Now, I have seen Edison's men.
+-where?
+
+1080
+01:20:15,234 --> 01:20:18,080
+In the hoteI. And I have every mind
+to bring them up here myseIf.
+
+1081
+01:20:18,242 --> 01:20:20,186
+That would be unwise, Mr. Angier.
+
+1082
+01:20:20,354 --> 01:20:23,257
+It is true that you are
+our last remaining financier...
+
+1083
+01:20:23,426 --> 01:20:25,116
+...but we have not stolen your money.
+
+1084
+01:20:25,283 --> 01:20:26,559
+Sir, my cat.
+
+1085
+01:20:26,723 --> 01:20:29,623
+when I told you I could make
+your machine, I spoke a simple truth.
+
+1086
+01:20:29,793 --> 01:20:33,055
+-Then why isn't the machine working?
+-Because exact science, Mr. Angier...
+
+1087
+01:20:33,218 --> 01:20:34,430
+...is not an exact science.
+
+1088
+01:20:34,817 --> 01:20:37,568
+The machine simply does not operate
+as expected.
+
+1089
+01:20:37,730 --> 01:20:39,903
+It requires further examination.
+
+1090
+01:20:40,067 --> 01:20:42,554
+-So where did my top hat go?
+-Nowhere.
+
+1091
+01:20:42,722 --> 01:20:45,373
+we tried the damn thing a dozen times.
+
+1092
+01:20:45,540 --> 01:20:46,816
+The hat went nowhere.
+
+1093
+01:20:46,979 --> 01:20:48,832
+we need to try different materiaI.
+
+1094
+01:20:48,995 --> 01:20:52,508
+It may provoke a different result.
+
+1095
+01:20:53,409 --> 01:20:55,002
+copernicus, come on.
+
+1096
+01:21:01,891 --> 01:21:06,200
+You are responsible for whatever happens
+to this animaI, doctor.
+
+1097
+01:21:26,436 --> 01:21:29,948
+I hope that whatever you were really doing
+with my money was more worthwhile...
+
+1098
+01:21:30,115 --> 01:21:31,970
+...Mr. Tesla.
+
+1099
+01:22:24,835 --> 01:22:25,784
+Alley!
+
+1100
+01:22:29,061 --> 01:22:30,238
+So the machine was working.
+
+1101
+01:22:30,403 --> 01:22:33,787
+I never bothered to check the calibration
+because the hat never moved.
+
+1102
+01:22:33,957 --> 01:22:36,893
+These things never quite work
+as you expect them to, Mr. Angier.
+
+1103
+01:22:37,062 --> 01:22:39,135
+That's one of the principaI
+beauties of science.
+
+1104
+01:22:39,301 --> 01:22:42,530
+I'll need a couple of weeks to iron out
+the problems with the machine.
+
+1105
+01:22:42,695 --> 01:22:44,798
+we'll send word when it's ready.
+
+1106
+01:22:46,917 --> 01:22:48,924
+Don't forget your hat.
+
+1107
+01:22:49,734 --> 01:22:53,346
+-well, which one is mine?
+-They're all your hats, Mr. Angier.
+
+1108
+01:22:59,109 --> 01:23:01,892
+You look so pretty
+in this new dress of yours.
+
+1109
+01:23:02,053 --> 01:23:05,764
+-Are we going to the zoo this afternoon?
+-No, no, no. Daddy has some errands to run.
+
+1110
+01:23:05,926 --> 01:23:07,835
+-But you promised.
+-I promised, did I?
+
+1111
+01:23:08,007 --> 01:23:10,080
+Then go to the zoo we shall.
+
+1112
+01:23:10,246 --> 01:23:13,410
+So Daddy will go run his errands
+and I'll be back before you know it...
+
+1113
+01:23:13,573 --> 01:23:17,119
+...so you go get ready.
+we'll go see those chimpanzees.
+
+1114
+01:23:20,262 --> 01:23:22,151
+Sarah.
+
+1115
+01:23:22,502 --> 01:23:23,483
+what are you doing?
+
+1116
+01:23:26,887 --> 01:23:29,885
+we each of us have our vices.
+
+1117
+01:23:32,806 --> 01:23:36,100
+Sarah, whatever you may think...
+
+1118
+01:23:36,583 --> 01:23:40,031
+...your only competition for my affections
+is our little girI.
+
+1119
+01:23:40,199 --> 01:23:44,355
+I love you. I will aIways love you
+and you alone.
+
+1120
+01:23:46,310 --> 01:23:49,378
+-You mean it today.
+-AbsoIutely.
+
+1121
+01:23:50,183 --> 01:23:53,347
+which makes it so much harder
+when you don't.
+
+1122
+01:24:02,630 --> 01:24:05,250
+Is that more shopping?
+She does love the smell of money.
+
+1123
+01:24:05,415 --> 01:24:08,612
+The little lady wants to go to the zoo,
+so I thought you could take her.
+
+1124
+01:24:08,775 --> 01:24:11,743
+Yeah? I mean,
+I can do it tomorrow if not.
+
+1125
+01:24:11,910 --> 01:24:17,149
+And Sarah, she knows.
+
+1126
+01:24:17,927 --> 01:24:21,026
+She-- I mean, at least she knows
+that something's not right...
+
+1127
+01:24:21,193 --> 01:24:24,508
+...so if you can just do whatever you can
+to heIp me with her.
+
+1128
+01:24:24,678 --> 01:24:28,455
+TaIk to her. Just convince her
+that I do love her.
+
+1129
+01:24:38,986 --> 01:24:42,846
+-what is it, Freddy?
+-Just don't call me that, please.
+
+1130
+01:24:43,016 --> 01:24:45,471
+It's nothing. It's just, you know,
+there's sometimes....
+
+1131
+01:24:45,639 --> 01:24:47,811
+-Sometimes it seems wrong.
+-I've told you before...
+
+1132
+01:24:47,976 --> 01:24:49,503
+...when you're with me,
+you're with me.
+
+1133
+01:24:49,672 --> 01:24:51,613
+Leave your family at home
+where they belong.
+
+1134
+01:24:52,232 --> 01:24:53,638
+I'm trying.
+
+1135
+01:24:53,800 --> 01:24:55,229
+I'm trying, olivia.
+
+1136
+01:24:55,400 --> 01:24:57,789
+-I'll get dressed.
+-Yeah.
+
+1137
+01:24:59,048 --> 01:25:01,797
+I saw Fallon hanging around again.
+
+1138
+01:25:02,314 --> 01:25:04,354
+There's something
+about that man I don't trust.
+
+1139
+01:25:04,682 --> 01:25:07,363
+You trust me? Then trust Fallon.
+
+1140
+01:25:07,848 --> 01:25:09,987
+He protects the things that I care about.
+
+1141
+01:25:46,761 --> 01:25:48,966
+we're sorry to see you go, Mr. Angier.
+
+1142
+01:25:49,129 --> 01:25:51,585
+we were sorry to see
+Mr. Tesla leave as well.
+
+1143
+01:25:51,754 --> 01:25:53,662
+He was very good to colorado Springs.
+
+1144
+01:25:54,153 --> 01:25:59,849
+Mr. Angier, I didn't think it was necessary
+to tell Edison's men about the box.
+
+1145
+01:26:00,522 --> 01:26:01,469
+what box?
+
+1146
+01:26:25,900 --> 01:26:29,096
+I apologize for leaving
+without saying goodbye...
+
+1147
+01:26:29,545 --> 01:26:33,541
+...but I seem to have outstayed
+my welcome in Colorado.
+
+1148
+01:26:34,282 --> 01:26:38,539
+The truly extraordinary is not
+permitted in science and industry.
+
+1149
+01:26:38,698 --> 01:26:43,915
+Perhaps you"ll find more luck in your field,
+where people are happy to be mystified.
+
+1150
+01:26:44,075 --> 01:26:47,816
+You will find what
+you are looking for in this box.
+
+1151
+01:26:48,234 --> 01:26:52,096
+Alley has written you
+a thorough set of instructions.
+
+1152
+01:26:52,268 --> 01:26:56,708
+I add only one suggestion
+on using the machine:
+
+1153
+01:26:56,874 --> 01:26:58,729
+Destroy it.
+
+1154
+01:26:58,891 --> 01:27:01,860
+Drop it to the bottom
+of the deepest ocean.
+
+1155
+01:27:02,028 --> 01:27:05,094
+Such a thing will bring you only misery.
+
+1156
+01:27:09,002 --> 01:27:12,385
+Tesla"s warning is as unheeded
+as he knew it would be.
+
+1157
+01:27:12,554 --> 01:27:14,411
+Today, I tested the machine...
+
+1158
+01:27:14,570 --> 01:27:18,847
+...taking precautions in case Tesla
+hadn"t ironed out the kinks in its operation.
+
+1159
+01:27:19,019 --> 01:27:23,657
+I mean, if it went wrong,
+I would not wanna live like that for long.
+
+1160
+01:27:41,547 --> 01:27:45,410
+But here at the Turn,
+I must leave you, Borden.
+
+1161
+01:27:45,581 --> 01:27:47,653
+Yes, you, Borden.
+
+1162
+01:27:47,821 --> 01:27:49,959
+Sitting there in your cell...
+
+1163
+01:27:50,126 --> 01:27:53,988
+...reading my diary, awaiting your death...
+
+1164
+01:27:54,157 --> 01:27:56,132
+...for my murder.
+
+1165
+01:28:01,100 --> 01:28:04,199
+Angier's journaI, that gesture
+of good faith, that's a fake.
+
+1166
+01:28:04,364 --> 01:28:08,161
+I assure you, it's not. The provenance
+of the journaI is clear and under no doubt.
+
+1167
+01:28:08,333 --> 01:28:12,708
+And it's written in Angier's own hand,
+of which we had numerous examples.
+
+1168
+01:28:14,573 --> 01:28:16,298
+It don't matter.
+
+1169
+01:28:18,284 --> 01:28:21,067
+So my tricks.
+
+1170
+01:28:23,339 --> 01:28:26,854
+-All of them.
+-IncIuding The Transported Man?
+
+1171
+01:28:27,661 --> 01:28:29,865
+well, Lord caldlow
+will be very pleased indeed.
+
+1172
+01:28:30,029 --> 01:28:33,379
+No, he won't.
+Because they're not complete.
+
+1173
+01:28:33,550 --> 01:28:36,037
+It's just the Pledge
+and the Turn for each.
+
+1174
+01:28:36,206 --> 01:28:38,695
+without the Prestige for these tricks...
+
+1175
+01:28:39,279 --> 01:28:41,514
+-...these are worthless.
+-Yeah.
+
+1176
+01:28:42,159 --> 01:28:45,476
+You get the rest of it
+when you bring my daughter here.
+
+1177
+01:28:48,237 --> 01:28:50,213
+I wanna say goodbye.
+
+1178
+01:28:52,015 --> 01:28:53,292
+we have to go through it now.
+
+1179
+01:28:53,453 --> 01:28:55,909
+Listen, we have to go through it now.
+Now, listen to me.
+
+1180
+01:28:56,077 --> 01:28:57,287
+Deny it all you want.
+
+1181
+01:28:57,455 --> 01:28:59,657
+olivia means nothing.
+
+1182
+01:28:59,823 --> 01:29:01,164
+-olivia?
+-I need an assistant.
+
+1183
+01:29:01,326 --> 01:29:02,407
+No, I'll go to her.
+
+1184
+01:29:02,575 --> 01:29:04,201
+-I'll tell her I know--
+-Tell her what?
+
+1185
+01:29:04,367 --> 01:29:07,912
+I know what you really are, AIfred. I....
+
+1186
+01:29:08,367 --> 01:29:10,222
+-I know, and I--
+-Sarah, Sarah.
+
+1187
+01:29:10,384 --> 01:29:12,552
+-I can't keep it in.
+-You can't taIk like this.
+
+1188
+01:29:12,718 --> 01:29:13,666
+Sarah, shut up.
+
+1189
+01:29:13,838 --> 01:29:15,082
+-No, no.
+-Sarah, shut up!
+
+1190
+01:29:15,406 --> 01:29:16,967
+I don't wanna hear it anymore!
+
+1191
+01:29:17,135 --> 01:29:20,037
+You can't taIk like this!
+
+1192
+01:29:21,678 --> 01:29:24,615
+You can't hide it anymore
+because I know, AIfred, I know.
+
+1193
+01:29:24,782 --> 01:29:26,409
+I know what you really are!
+
+1194
+01:29:26,575 --> 01:29:28,201
+AIfred...
+
+1195
+01:29:28,367 --> 01:29:30,951
+...I can't live like this.
+
+1196
+01:29:31,119 --> 01:29:33,007
+oh, well, you think I can live like this?
+
+1197
+01:29:33,166 --> 01:29:36,166
+You think I bloody enjoy living like this?
+
+1198
+01:29:36,334 --> 01:29:38,824
+-Stop it and listen! No!
+-we have this beautiful house...
+
+1199
+01:29:38,990 --> 01:29:42,122
+...lovely little girI, we're married.
+what is so wrong with your life?
+
+1200
+01:29:42,287 --> 01:29:44,676
+AIfred, I can't live like this!
+
+1201
+01:29:44,942 --> 01:29:47,594
+well, what do you want from me?
+
+1202
+01:29:52,049 --> 01:29:53,608
+I want....
+
+1203
+01:29:53,776 --> 01:29:56,775
+I want you to be honest with me.
+
+1204
+01:29:59,535 --> 01:30:01,324
+No tricks...
+
+1205
+01:30:01,937 --> 01:30:05,198
+...no lies...
+
+1206
+01:30:05,423 --> 01:30:08,458
+...and no secrets.
+
+1207
+01:30:13,840 --> 01:30:17,036
+Do you--? Do you love me?
+
+1208
+01:30:19,760 --> 01:30:21,418
+Not today.
+
+1209
+01:30:23,376 --> 01:30:24,325
+No.
+
+1210
+01:31:58,290 --> 01:32:00,199
+who's there?
+
+1211
+01:32:02,225 --> 01:32:03,950
+I'm looking for an old friend.
+
+1212
+01:32:04,113 --> 01:32:05,195
+I heard about a booking.
+
+1213
+01:32:05,971 --> 01:32:08,556
+Nice little theater.
+Good up-and-coming magician.
+
+1214
+01:32:08,723 --> 01:32:10,927
+-You're back.
+-It's good to see you, John.
+
+1215
+01:32:11,827 --> 01:32:14,315
+Good rehearsaI space.
+
+1216
+01:32:14,485 --> 01:32:17,004
+Blind stagehands, I like it.
+
+1217
+01:32:17,172 --> 01:32:19,506
+You aIways had
+a good eye for publicity.
+
+1218
+01:32:19,668 --> 01:32:20,976
+I need your heIp, John.
+
+1219
+01:32:21,493 --> 01:32:23,728
+It's my last show. A limited engagement.
+
+1220
+01:32:24,147 --> 01:32:25,358
+Your last show?
+
+1221
+01:32:25,876 --> 01:32:29,193
+A wise man once told me
+obsession was a young man's game.
+
+1222
+01:32:29,363 --> 01:32:30,311
+I'm aImost done.
+
+1223
+01:32:31,250 --> 01:32:32,941
+There's one thing left.
+
+1224
+01:32:33,972 --> 01:32:36,241
+The ReaI Transported Man.
+
+1225
+01:32:38,068 --> 01:32:39,923
+You wanna design a show around it.
+
+1226
+01:32:40,084 --> 01:32:42,767
+I don't want you backstage.
+I need you front of house, managing.
+
+1227
+01:32:42,934 --> 01:32:45,353
+I need you to call in favors
+or connections you have...
+
+1228
+01:32:45,524 --> 01:32:48,938
+-...to get us the right booking for the run.
+-what sort of booking you after?
+
+1229
+01:32:49,107 --> 01:32:51,246
+The sort that Borden can't ignore.
+
+1230
+01:32:58,963 --> 01:33:00,939
+what an honor it is to see you again, sir.
+
+1231
+01:33:01,108 --> 01:33:04,306
+You told me you only wanted to show me
+one trick. It piqued my interest.
+
+1232
+01:33:04,468 --> 01:33:07,402
+-It's a very clever trick, Mr. Ackerman.
+-Pleased to meet you.
+
+1233
+01:33:07,571 --> 01:33:10,290
+Likewise, I'm sure.
+well, let's get on, shall we?
+
+1234
+01:33:13,939 --> 01:33:15,884
+Turn it on, gentlemen.
+
+1235
+01:33:20,564 --> 01:33:21,579
+very pretty.
+
+1236
+01:33:32,309 --> 01:33:35,604
+That's it, cutter? He simply disappears?
+
+1237
+01:33:35,765 --> 01:33:38,482
+That's not a trick.
+well, he has to come back.
+
+1238
+01:33:38,646 --> 01:33:39,660
+There has to be a--
+
+1239
+01:33:39,831 --> 01:33:41,204
+-A Prestige?
+-Exactly.
+
+1240
+01:33:44,246 --> 01:33:45,969
+Pardon me.
+
+1241
+01:33:46,708 --> 01:33:49,044
+It's very rare to see...
+
+1242
+01:33:49,941 --> 01:33:51,797
+...reaI magic.
+
+1243
+01:33:52,566 --> 01:33:56,080
+-Yes, it's been many years since I've seen--
+-Are you interested in heIping us?
+
+1244
+01:33:58,198 --> 01:33:59,603
+Yes.
+
+1245
+01:34:00,180 --> 01:34:02,418
+But you'll have to dress it up a little.
+
+1246
+01:34:03,990 --> 01:34:05,581
+Disguise it.
+
+1247
+01:34:07,093 --> 01:34:09,461
+Give them enough reason to doubt it.
+
+1248
+01:34:10,295 --> 01:34:13,361
+You haven't spoken about her, Freddy.
+Not once.
+
+1249
+01:34:13,527 --> 01:34:16,975
+why would I taIk about her to you?
+
+1250
+01:34:17,143 --> 01:34:19,443
+Because she was a part of your life.
+
+1251
+01:34:19,605 --> 01:34:20,718
+And now she's gone.
+
+1252
+01:34:23,508 --> 01:34:27,634
+You know, the day before she killed herseIf,
+she said she wanted to meet me.
+
+1253
+01:34:27,926 --> 01:34:30,772
+That she had something
+to tell me about you.
+
+1254
+01:34:30,934 --> 01:34:34,130
+I was such a coward,
+I couldn't bring myseIf to face her.
+
+1255
+01:34:34,294 --> 01:34:35,888
+But...
+
+1256
+01:34:37,046 --> 01:34:39,121
+...what would she have said?
+
+1257
+01:34:39,287 --> 01:34:42,069
+You wanna know the truth about me?
+
+1258
+01:34:43,159 --> 01:34:46,509
+Truth is that...
+
+1259
+01:34:47,863 --> 01:34:49,773
+...I never loved Sarah.
+
+1260
+01:34:51,416 --> 01:34:52,364
+I never loved her.
+
+1261
+01:34:52,536 --> 01:34:55,732
+-You married her. You had a child with her.
+-Yes, yes. Part of me.
+
+1262
+01:34:55,893 --> 01:34:59,440
+Part of me did, but the other part didn't.
+
+1263
+01:34:59,607 --> 01:35:02,805
+The part that found you.
+The part that's sitting here right now.
+
+1264
+01:35:03,895 --> 01:35:04,845
+I love you.
+
+1265
+01:35:05,305 --> 01:35:08,565
+No, olivia, I love you. That's the truth.
+
+1266
+01:35:08,728 --> 01:35:11,031
+That is the truth that matters.
+
+1267
+01:35:11,191 --> 01:35:15,249
+You could be in some other restaurant
+with some other woman right now...
+
+1268
+01:35:15,415 --> 01:35:16,943
+...taIking about me that way.
+
+1269
+01:35:17,111 --> 01:35:19,020
+-No.
+-Yes.
+
+1270
+01:35:22,264 --> 01:35:26,836
+It's inhuman to be so cold.
+
+1271
+01:35:31,799 --> 01:35:35,443
+He's back. After two years.
+
+1272
+01:35:35,606 --> 01:35:39,121
+He's got a new trick. They're saying
+it's the best London's ever seen.
+
+1273
+01:35:41,367 --> 01:35:44,628
+You should see the look
+on your face, Professor.
+
+1274
+01:35:45,559 --> 01:35:47,348
+You should go to him.
+
+1275
+01:35:47,513 --> 01:35:49,782
+You two deserve each other.
+
+1276
+01:35:54,682 --> 01:35:58,327
+I'm afraid I'm booked. The Moscow Ballet,
+they'll be playing through next year.
+
+1277
+01:35:58,489 --> 01:36:00,976
+Then get rid of them.
+There'll be a hundred performances.
+
+1278
+01:36:01,146 --> 01:36:02,771
+No more, no less.
+
+1279
+01:36:02,938 --> 01:36:05,270
+Five performances a week. No matinees.
+
+1280
+01:36:07,096 --> 01:36:09,912
+And that's what you'll be charging
+for each ticket. Good day.
+
+1281
+01:36:31,770 --> 01:36:34,157
+Ladies and gentlemen,
+my first trick of the evening...
+
+1282
+01:36:34,330 --> 01:36:36,883
+...is one that invoIves considerable risk.
+
+1283
+01:36:37,306 --> 01:36:39,958
+Anyone in the audience
+who would be irrevocably damaged...
+
+1284
+01:36:40,121 --> 01:36:43,023
+...by seeing a man drown
+should leave now.
+
+1285
+01:36:43,193 --> 01:36:46,041
+For when I tell you the young lady
+who taught me this illusion...
+
+1286
+01:36:46,202 --> 01:36:47,728
+...actually died performing it...
+
+1287
+01:36:47,896 --> 01:36:50,963
+...you will understand the seriousness
+of the dangers invoIved.
+
+1288
+01:36:53,115 --> 01:36:54,771
+Let's begin.
+
+1289
+01:37:04,731 --> 01:37:07,960
+In my traveIs, I have seen the future...
+
+1290
+01:37:09,050 --> 01:37:11,767
+...and it is a strange future indeed.
+
+1291
+01:37:12,443 --> 01:37:14,418
+The world, ladies and gentlemen...
+
+1292
+01:37:14,586 --> 01:37:19,671
+...is on the brink of new
+and terrifying possibilities.
+
+1293
+01:37:38,171 --> 01:37:42,424
+what you're about to witness
+is not magic.
+
+1294
+01:37:42,586 --> 01:37:43,993
+It is purely science.
+
+1295
+01:37:44,378 --> 01:37:46,682
+I would like to invite you
+to come up on-stage now...
+
+1296
+01:37:46,842 --> 01:37:49,625
+...so that you can examine the machine
+for yourseIves.
+
+1297
+01:38:42,846 --> 01:38:45,879
+Man's reach exceeds his imagination.
+
+1298
+01:38:46,045 --> 01:38:47,190
+Bravo!
+
+1299
+01:38:50,045 --> 01:38:52,532
+Bravo! Bravo!
+
+1300
+01:38:56,795 --> 01:38:59,252
+Bravo. Bravo.
+
+1301
+01:39:07,164 --> 01:39:08,757
+one hundred performances.
+
+1302
+01:39:08,924 --> 01:39:11,128
+why? Does his method dictate that?
+
+1303
+01:39:11,292 --> 01:39:13,115
+Is it a publicity move? what is it?
+
+1304
+01:39:13,275 --> 01:39:15,579
+He's a no-talent magician,
+and they're calling him...
+
+1305
+01:39:15,741 --> 01:39:17,748
+...the bloody best in England. why?
+
+1306
+01:39:17,949 --> 01:39:20,501
+Fifty yards in a second. In a second!
+
+1307
+01:39:20,669 --> 01:39:23,517
+And all that we know
+is he uses a trap door.
+
+1308
+01:39:23,678 --> 01:39:27,125
+Brilliant. what is going on
+under that stage?
+
+1309
+01:39:27,870 --> 01:39:30,553
+why can't you outthink him?
+
+1310
+01:39:44,670 --> 01:39:46,131
+They do this every night?
+
+1311
+01:39:46,303 --> 01:39:49,336
+After each performance, yeah?
+
+1312
+01:40:18,494 --> 01:40:20,020
+we're done.
+
+1313
+01:40:21,151 --> 01:40:22,525
+All right?
+
+1314
+01:40:23,902 --> 01:40:25,462
+Let him have his trick.
+
+1315
+01:40:25,631 --> 01:40:27,965
+I don't need-- I don't need his secret.
+
+1316
+01:40:28,127 --> 01:40:29,620
+So...
+
+1317
+01:40:30,943 --> 01:40:33,692
+...don't go back there,
+you leave him alone.
+
+1318
+01:40:33,887 --> 01:40:36,921
+Both of us, just leave him alone.
+
+1319
+01:40:37,087 --> 01:40:38,495
+we're done.
+
+1320
+01:40:47,073 --> 01:40:48,960
+I told you, John...
+
+1321
+01:40:49,120 --> 01:40:50,975
+...I don't want you backstage
+on this one.
+
+1322
+01:40:52,768 --> 01:40:55,069
+I would like to invite you
+to come up on-stage now...
+
+1323
+01:40:55,229 --> 01:40:57,270
+...so that you can examine the machine
+for yourseIves.
+
+1324
+01:41:25,472 --> 01:41:29,334
+-Hey, you, where do you think you're going?
+-I'm part of the bloody act, you fooI.
+
+1325
+01:41:38,016 --> 01:41:39,707
+who was that?
+
+1326
+01:42:33,985 --> 01:42:34,934
+Hey!
+
+1327
+01:42:35,107 --> 01:42:38,456
+where's the bloody key?
+where's the bloody key?
+
+1328
+01:42:38,659 --> 01:42:40,798
+The blind man's got it!
+
+1329
+01:42:40,964 --> 01:42:44,377
+where's the bloody key?
+Bloody drowning!
+
+1330
+01:42:53,377 --> 01:42:55,233
+Hold on!
+
+1331
+01:42:59,490 --> 01:43:00,701
+what have you done?
+
+1332
+01:43:21,731 --> 01:43:26,850
+AIfred Borden, you have been found guiIty
+of the murder of Robert Angier.
+
+1333
+01:43:27,012 --> 01:43:30,493
+You will be hanged by the neck
+untiI dead.
+
+1334
+01:43:31,267 --> 01:43:34,137
+May the Lord have mercy on your soul.
+
+1335
+01:43:35,683 --> 01:43:37,406
+Mr. cutter?
+
+1336
+01:43:38,115 --> 01:43:39,360
+owens.
+
+1337
+01:43:40,036 --> 01:43:42,109
+oh, thank you for coming, Mr. owens.
+
+1338
+01:43:42,274 --> 01:43:46,399
+It has fallen to me to dispose
+of Mr. Angier's equipment.
+
+1339
+01:43:46,564 --> 01:43:48,090
+But I noticed from this manifest...
+
+1340
+01:43:48,259 --> 01:43:51,577
+...that Lord caldlow
+has purchased the bulk of the items.
+
+1341
+01:43:51,748 --> 01:43:55,523
+Mr. cutter, if you needed to know
+where to deliver these items, surely you--
+
+1342
+01:43:55,683 --> 01:43:58,848
+No, no. It's just
+there is one particular item...
+
+1343
+01:43:59,011 --> 01:44:02,874
+...this item, in fact, that I would like to--
+
+1344
+01:44:03,043 --> 01:44:04,953
+-You would like to...?
+-Buy.
+
+1345
+01:44:05,125 --> 01:44:06,978
+-Buy yourseIf?
+-Yeah, I suppose so.
+
+1346
+01:44:08,164 --> 01:44:10,018
+-This is the machine?
+-Yes.
+
+1347
+01:44:10,180 --> 01:44:14,436
+well, I'm afraid Lord caldlow was adamant
+about purchasing this particular item.
+
+1348
+01:44:14,885 --> 01:44:17,471
+Do you think I could taIk
+to Lord caldlow in person?
+
+1349
+01:44:17,893 --> 01:44:20,196
+out of the question, I'm afraid.
+
+1350
+01:44:22,630 --> 01:44:24,320
+of course...
+
+1351
+01:44:24,485 --> 01:44:27,267
+...I suppose if, in the course
+of your delivery arrangements...
+
+1352
+01:44:27,430 --> 01:44:29,763
+...your paths were to cross...
+
+1353
+01:44:30,178 --> 01:44:33,923
+-...I can't stop you speaking your mind.
+-Thank you.
+
+1354
+01:44:35,366 --> 01:44:37,471
+-Still here, Borden?
+-For now.
+
+1355
+01:44:38,181 --> 01:44:39,393
+Got a visitor.
+
+1356
+01:44:39,558 --> 01:44:40,900
+Lord caldlow.
+
+1357
+01:44:41,063 --> 01:44:43,037
+with a little girI.
+
+1358
+01:44:51,204 --> 01:44:52,732
+Jess?
+
+1359
+01:44:52,901 --> 01:44:54,330
+Hello, my love.
+
+1360
+01:44:55,014 --> 01:44:57,763
+How are you? I've missed you so much.
+
+1361
+01:44:57,925 --> 01:44:59,867
+And Fallon's missed you too.
+we both have.
+
+1362
+01:45:00,036 --> 01:45:02,176
+Daddy, can I come in there?
+
+1363
+01:45:02,918 --> 01:45:05,187
+Not right now. Not right now, darling.
+
+1364
+01:45:05,349 --> 01:45:08,731
+No, but everything is gonna be all right.
+
+1365
+01:45:09,157 --> 01:45:11,711
+-You must be Lord caldlow.
+-caldlow.
+
+1366
+01:45:12,069 --> 01:45:13,116
+Yes, I am.
+
+1367
+01:45:13,285 --> 01:45:14,398
+I aIways have been.
+
+1368
+01:45:19,270 --> 01:45:21,310
+They flatter you
+with all those chains, AIfred.
+
+1369
+01:45:21,477 --> 01:45:24,326
+Don't they know you can't escape
+without your little rubber ball?
+
+1370
+01:45:24,487 --> 01:45:25,567
+I pulled you out.
+
+1371
+01:45:25,736 --> 01:45:27,195
+out of that tank.
+
+1372
+01:45:27,368 --> 01:45:30,880
+All I wanted to do was prove
+that I was a better magician...
+
+1373
+01:45:31,047 --> 01:45:32,836
+...but you couldn't leave me alone.
+
+1374
+01:45:34,439 --> 01:45:36,544
+I don't know what you've done...
+
+1375
+01:45:38,342 --> 01:45:41,689
+...but you're not afraid
+to get your hands dirty anymore, are you?
+
+1376
+01:45:41,862 --> 01:45:43,619
+No, not anymore.
+
+1377
+01:45:43,783 --> 01:45:44,960
+And I win.
+
+1378
+01:45:45,125 --> 01:45:48,193
+Because no one cares about the man
+in the box, the man who disappears.
+
+1379
+01:45:48,359 --> 01:45:49,308
+You win?
+
+1380
+01:45:50,791 --> 01:45:55,015
+This ain't a bloody competition anymore,
+Angier, this is my little girI's life.
+
+1381
+01:45:55,175 --> 01:45:58,111
+And don't you dare put her
+in the middle of this.
+
+1382
+01:45:58,280 --> 01:46:00,995
+oh, I know how hard it is
+to have someone so speciaI...
+
+1383
+01:46:01,159 --> 01:46:03,679
+...taken away from me, don't I, Borden?
+
+1384
+01:46:04,487 --> 01:46:07,007
+And you can't take her with you now,
+can you?
+
+1385
+01:46:07,174 --> 01:46:08,866
+oh, she'll be looked after.
+
+1386
+01:46:09,385 --> 01:46:13,344
+-Goodbye, Professor. come on, darling.
+-No, no, no. Stop, stop, stop. Look.
+
+1387
+01:46:13,512 --> 01:46:14,757
+Here.
+
+1388
+01:46:16,169 --> 01:46:17,825
+That's what you're after.
+
+1389
+01:46:17,992 --> 01:46:19,999
+That's what this is about.
+
+1390
+01:46:20,168 --> 01:46:21,377
+Take it.
+
+1391
+01:46:21,544 --> 01:46:23,397
+-Your secret?
+-Yeah.
+
+1392
+01:46:26,280 --> 01:46:28,582
+You aIways were the better magician.
+
+1393
+01:46:28,744 --> 01:46:30,172
+we both know that.
+
+1394
+01:46:30,342 --> 01:46:33,889
+But whatever your secret was,
+I mean, you have to agree...
+
+1395
+01:46:34,119 --> 01:46:35,102
+...mine is better.
+
+1396
+01:46:36,936 --> 01:46:40,003
+Don't do this. Don't do this, Angier, no.
+Jess, Jess, Jess.
+
+1397
+01:46:40,393 --> 01:46:43,426
+Jess, I'm gonna take you home soon.
+I promise.
+
+1398
+01:46:43,785 --> 01:46:45,956
+-For God's sake, Borden.
+-I promise. Look.
+
+1399
+01:46:49,769 --> 01:46:51,112
+I promise.
+
+1400
+01:46:51,272 --> 01:46:54,752
+-I love you, Jess. I love you.
+-come on.
+
+1401
+01:46:54,919 --> 01:46:57,988
+-come on. come on.
+-I love you. I love you, Jess.
+
+1402
+01:46:58,153 --> 01:47:00,389
+Angier. Angier!
+
+1403
+01:47:00,553 --> 01:47:02,463
+what, you think this place can hold me?
+
+1404
+01:47:02,632 --> 01:47:05,382
+Angier! They're gonna bloody hang me!
+
+1405
+01:47:05,545 --> 01:47:08,512
+They're gonna bloody hang me!
+You can put a stop to this now!
+
+1406
+01:47:08,682 --> 01:47:10,689
+-Listen! Listen! That man--!
+-Just shut up.
+
+1407
+01:47:10,857 --> 01:47:13,190
+Listen, that man is the one
+I'm meant to have killed!
+
+1408
+01:47:13,351 --> 01:47:15,207
+You blind bastard, listen to me!
+
+1409
+01:47:15,368 --> 01:47:17,223
+-If he's alive, I'm not guiIty!
+-Guards!
+
+1410
+01:47:17,384 --> 01:47:19,457
+-I'm not guiIty!
+-I don't care! Get hold of him!
+
+1411
+01:47:19,626 --> 01:47:21,535
+-Goodbye, Professor.
+-Angier!
+
+1412
+01:47:26,089 --> 01:47:27,715
+Run along now.
+
+1413
+01:47:28,651 --> 01:47:31,997
+Sir. There's a gentleman waiting.
+
+1414
+01:47:47,209 --> 01:47:48,192
+Dear God.
+
+1415
+01:47:48,971 --> 01:47:50,563
+Hello, cutter.
+
+1416
+01:47:51,145 --> 01:47:52,969
+You're-- You're still alive.
+
+1417
+01:47:53,131 --> 01:47:54,821
+How is it you're still alive, Robert?
+
+1418
+01:47:55,050 --> 01:47:57,256
+I saw you on a slab, for God's sake.
+
+1419
+01:48:00,394 --> 01:48:02,085
+-child.
+-Good night, sir.
+
+1420
+01:48:02,251 --> 01:48:03,680
+Good night, Jess.
+
+1421
+01:48:05,417 --> 01:48:06,847
+I've seen her before.
+
+1422
+01:48:07,017 --> 01:48:12,103
+I saw her in court with Fallon.
+
+1423
+01:48:13,899 --> 01:48:16,288
+-what have you done?
+-well, she needs looking after.
+
+1424
+01:48:16,460 --> 01:48:18,629
+She needs her father.
+
+1425
+01:48:19,019 --> 01:48:21,636
+You're letting him hang,
+and I heIped you.
+
+1426
+01:48:21,803 --> 01:48:27,466
+I came here to beg Lord caldlow
+to let me destroy that machine.
+
+1427
+01:48:27,980 --> 01:48:31,077
+I am not gonna beg you for anything.
+
+1428
+01:48:31,242 --> 01:48:34,374
+You don't have to. I'm gonna make sure
+that machine's never used again.
+
+1429
+01:48:35,498 --> 01:48:39,557
+Then, Lord caldlow...
+
+1430
+01:48:41,004 --> 01:48:42,857
+...where do you want me to deliver it?
+
+1431
+01:48:43,018 --> 01:48:44,327
+My theater.
+
+1432
+01:48:44,490 --> 01:48:46,531
+It belongs with the Prestige materiaIs.
+
+1433
+01:48:47,148 --> 01:48:49,537
+John, I tried not to invoIve you.
+
+1434
+01:49:01,996 --> 01:49:03,786
+So...
+
+1435
+01:49:06,029 --> 01:49:08,002
+...we go alone now.
+
+1436
+01:49:08,651 --> 01:49:10,440
+Both of us.
+
+1437
+01:49:13,739 --> 01:49:17,036
+only I don't have as far to go as you.
+
+1438
+01:49:22,060 --> 01:49:23,653
+No.
+
+1439
+01:49:24,747 --> 01:49:27,976
+You were right, I should have left him
+to his damn trick.
+
+1440
+01:49:29,452 --> 01:49:31,144
+I'm sorry.
+
+1441
+01:49:32,846 --> 01:49:35,146
+I'm sorry for a lot of things.
+
+1442
+01:49:36,236 --> 01:49:38,276
+I'm sorry about Sarah.
+
+1443
+01:49:39,916 --> 01:49:41,540
+I didn't mean to hurt her.
+
+1444
+01:49:41,709 --> 01:49:43,564
+I didn't.
+
+1445
+01:49:45,067 --> 01:49:47,655
+You go live your life in full now, all right?
+
+1446
+01:49:47,820 --> 01:49:49,283
+You live for both of us.
+
+1447
+01:49:57,644 --> 01:49:59,139
+Goodbye.
+
+1448
+01:50:43,533 --> 01:50:45,259
+Are you watching closely?
+
+1449
+01:51:15,407 --> 01:51:17,347
+Put it down the end.
+
+1450
+01:51:49,553 --> 01:51:53,546
+Take a minute to consider
+your achievement.
+
+1451
+01:51:53,935 --> 01:51:58,858
+I once told you about a sailor
+who described drowning to me.
+
+1452
+01:51:59,025 --> 01:52:01,031
+Yes, he said it was like going home.
+
+1453
+01:52:02,033 --> 01:52:06,732
+I was lying. He said it was agony.
+
+1454
+01:52:43,890 --> 01:52:45,778
+AIfred Borden...
+
+1455
+01:52:46,162 --> 01:52:49,739
+...this day, in the name of the king
+and the High court of England...
+
+1456
+01:52:49,905 --> 01:52:52,076
+...you will meet your end.
+
+1457
+01:52:53,679 --> 01:52:56,463
+No one cares about the man in the box.
+
+1458
+01:53:00,370 --> 01:53:01,931
+cutter?
+
+1459
+01:53:06,449 --> 01:53:07,977
+cutter?
+
+1460
+01:53:09,713 --> 01:53:12,975
+Do you have anything to say?
+
+1461
+01:53:16,369 --> 01:53:17,775
+Abracadabra.
+
+1462
+01:53:52,915 --> 01:53:54,573
+A brother.
+
+1463
+01:53:54,738 --> 01:53:56,016
+A twin.
+
+1464
+01:53:57,140 --> 01:54:02,223
+You were Fallon the whole time.
+
+1465
+01:54:02,387 --> 01:54:03,468
+No.
+
+1466
+01:54:04,437 --> 01:54:06,736
+we were both Fallon.
+
+1467
+01:54:06,898 --> 01:54:07,913
+And we were both Borden.
+
+1468
+01:54:13,812 --> 01:54:16,627
+were you--? were you the one
+who went into the box...
+
+1469
+01:54:16,787 --> 01:54:18,510
+...or the one who came back out?
+
+1470
+01:54:19,731 --> 01:54:21,739
+we took turns.
+
+1471
+01:54:26,419 --> 01:54:28,329
+The trick is where we would swap.
+
+1472
+01:54:34,386 --> 01:54:38,666
+cutter knew. cutter knew.
+But I told him it was too simple, too easy.
+
+1473
+01:54:39,795 --> 01:54:41,354
+No.
+
+1474
+01:54:42,066 --> 01:54:43,855
+Simple maybe, but not easy.
+
+1475
+01:54:44,244 --> 01:54:47,625
+There"s nothing easy
+about two men sharing one life.
+
+1476
+01:54:53,077 --> 01:54:55,148
+I don't understand
+how it can be bleeding again.
+
+1477
+01:54:59,954 --> 01:55:02,030
+what about olivia? And your wife?
+
+1478
+01:55:02,932 --> 01:55:04,821
+we each loved one of them.
+
+1479
+01:55:08,373 --> 01:55:10,316
+I loved Sarah.
+
+1480
+01:55:11,317 --> 01:55:13,455
+He loved Olivia.
+
+1481
+01:55:13,909 --> 01:55:18,828
+we each had haIf of a full life, really,
+which was enough for us.
+
+1482
+01:55:18,996 --> 01:55:20,686
+Just.
+
+1483
+01:55:22,389 --> 01:55:24,145
+But not for them.
+
+1484
+01:55:26,676 --> 01:55:31,184
+See, sacrifice, Robert,
+that's the price of a good trick.
+
+1485
+01:55:33,590 --> 01:55:36,240
+But you wouldn't know
+anything about that, would you?
+
+1486
+01:55:39,572 --> 01:55:40,817
+I've made sacrifices.
+
+1487
+01:55:40,980 --> 01:55:42,671
+-No.
+-Yes.
+
+1488
+01:55:43,252 --> 01:55:46,100
+It takes nothing
+to steaI another man's work.
+
+1489
+01:55:47,253 --> 01:55:48,782
+It takes everything.
+
+1490
+01:56:08,053 --> 01:56:10,955
+No. No.
+No, wait! I'm the--!
+
+1491
+01:56:16,887 --> 01:56:18,894
+It took courage.
+
+1492
+01:56:21,014 --> 01:56:24,014
+It took courage to climb
+into that machine every night...
+
+1493
+01:56:24,823 --> 01:56:29,578
+...not knowing
+if I'd be the man in the box...
+
+1494
+01:56:32,407 --> 01:56:33,355
+...or in the Prestige.
+
+1495
+01:56:35,093 --> 01:56:39,536
+Do you wanna--?
+Do you wanna see what it cost me?
+
+1496
+01:56:39,992 --> 01:56:42,992
+You didn't see where you are, did you?
+
+1497
+01:56:43,576 --> 01:56:45,682
+Look. Look.
+
+1498
+01:56:46,681 --> 01:56:48,652
+I don't care.
+
+1499
+01:56:52,790 --> 01:56:55,310
+You went haIfway around the world.
+
+1500
+01:56:56,278 --> 01:56:59,095
+You spent a fortune.
+
+1501
+01:57:00,888 --> 01:57:03,124
+You did terrible things.
+
+1502
+01:57:04,215 --> 01:57:06,964
+Really terrible things, Robert.
+
+1503
+01:57:08,631 --> 01:57:10,006
+And all for nothing.
+
+1504
+01:57:11,191 --> 01:57:13,777
+-For nothing?
+-Yeah.
+
+1505
+01:57:17,017 --> 01:57:21,588
+You never understood why we did this.
+
+1506
+01:57:24,376 --> 01:57:27,508
+The audience knows the truth.
+
+1507
+01:57:28,090 --> 01:57:31,919
+The world is simple. It's miserable.
+
+1508
+01:57:33,625 --> 01:57:36,013
+Solid all the way through.
+
+1509
+01:57:37,880 --> 01:57:42,255
+But if you could fooI them,
+even for a second...
+
+1510
+01:57:43,767 --> 01:57:46,353
+...then you could make them wonder.
+
+1511
+01:57:47,160 --> 01:57:48,916
+And then you....
+
+1512
+01:57:49,337 --> 01:57:53,615
+Then you got to see something
+very speciaI.
+
+1513
+01:57:57,338 --> 01:57:59,506
+You really don't know?
+
+1514
+01:58:03,032 --> 01:58:08,116
+It was-- It was the look on their faces.
+
+1515
+01:58:22,681 --> 01:58:27,470
+Every magic trick consists
+of three parts or acts.
+
+1516
+01:58:30,615 --> 01:58:33,715
+The first part is called the Pledge.
+
+1517
+01:58:34,104 --> 01:58:36,659
+The magician shows you
+something ordinary.
+
+1518
+01:58:37,784 --> 01:58:41,330
+The second act is called the Turn.
+
+1519
+01:58:41,595 --> 01:58:44,561
+The magician takes
+the ordinary something...
+
+1520
+01:58:44,730 --> 01:58:47,546
+...and makes it into
+something extraordinary.
+
+1521
+01:58:48,795 --> 01:58:50,484
+But you wouldn"t clap yet...
+
+1522
+01:58:50,652 --> 01:58:53,584
+...because making something disappear
+isn"t enough.
+
+1523
+01:58:54,203 --> 01:58:57,549
+You have to bring it back.
+
+1524
+01:59:01,146 --> 01:59:02,739
+Hey.
+
+1525
+01:59:29,594 --> 01:59:32,530
+Now you"re looking for the secret.
+
+1526
+01:59:34,716 --> 01:59:39,418
+But you won"t find it because,
+of course, you"re not really looking.
+
+1527
+01:59:41,339 --> 01:59:44,305
+You don"t really want to work it out.
+
+1528
+01:59:47,259 --> 01:59:49,463
+You want to be fooled.
+
+1529
+02:01:20,776 --> 02:01:29,078
+THE END
+Subtitles by: Reklame
+
