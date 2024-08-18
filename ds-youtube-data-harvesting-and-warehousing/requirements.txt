@@ -1,0 +1,10 @@
+matplotlib
+pandas
+streamlit
+sqlalchemy
+pymongo
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+python-dotenv
+psycopg2-binary
