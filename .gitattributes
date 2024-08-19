@@ -1,0 +1,8 @@
+2_ml/5-predicting-procurement-spend-efficiency-and-anomalies/data/firstfile.csv filter=lfs diff=lfs merge=lfs -text
+2_ml/5-predicting-procurement-spend-efficiency-and-anomalies/data/months filter=lfs diff=lfs merge=lfs -text
+2_ml/5-predicting-procurement-spend-efficiency-and-anomalies/data/ProductList.csv filter=lfs diff=lfs merge=lfs -text
+2_ml/5-predicting-procurement-spend-efficiency-and-anomalies/data/Sales.csv filter=lfs diff=lfs merge=lfs -text
+2_ml/5-predicting-procurement-spend-efficiency-and-anomalies/data/Spend[[:space:]]Analytics.xlsx filter=lfs diff=lfs merge=lfs -text
+2_ml/4-finance-analysis/data/application_data.csv filter=lfs diff=lfs merge=lfs -text
+2_ml/4-finance-analysis/data/columns_description.xlsx filter=lfs diff=lfs merge=lfs -text
+2_ml/4-finance-analysis/data/previous_application.csv filter=lfs diff=lfs merge=lfs -text
