@@ -30,8 +30,11 @@ git clone https://github.com/NandhadeSparrow/ds-comprehensive-banking-analytics.
 cd ds-comprehensive-banking-analytics
 ``` -->
 
-Download project folder
-cd into the folder
+- Download project folder or full repo
+- cd into the folder
+```
+cd ds-public/3_dl/dvd_rental
+```
 
 
 ### Python packages
