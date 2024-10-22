@@ -1,0 +1,16 @@
+{
+    "model_name": "genre",
+    "target": "category_id",
+    "features": [
+        "staff_id",
+        "store_id",
+        "city_id",
+        "day",
+        "month"
+    ],
+    "model_path": "models/genre/model.keras",
+    "model_format": "keras",
+    "scaler_path": "models/genre/scaler.pkl",
+    "result_path": "models/genre/result.pkl",
+    "encoders_path": "models/genre/encoders.pkl"
+}
