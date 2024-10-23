@@ -3,7 +3,6 @@ from utils.sparrowpy.data_science import modeling
 import numpy as np
 
 
-# Read the markdown file
 def read_markdown_file(markdown_file):
     with open(markdown_file, 'r') as file:
         return file.read()
@@ -22,46 +21,51 @@ def intro():
 
 
 def main():
-    models = [
-        'churn',
-        'genre',
-        # 'demand'
-    ]
+    intro_page_name = 'intro'
+    models = modeling.get_model_names()
 
     st.sidebar.title("Navigation")
-    page = st.sidebar.selectbox("Select a page", ['Intro']+[x+' prediction' for x in models])
-    if page == 'Intro':
+    page = st.sidebar.selectbox("Select a page", [intro_page_name]+[x+' prediction' for x in models])
+    
+    if page == intro_page_name:
         intro()
     elif page.split()[0] in models:
         model_name = page.split()[0]
         model_dict = modeling.load_saved_model(model_name)
         st.write(f'## {model_dict['model_name']} Prediction')
+
         model = model_dict.get('model')
         features = model_dict.get('features')
+        prep = model_dict.get('prep')
         scaler = model_dict.get('scaler')
         result = model_dict.get('result')
         target = model_dict.get('target')
         encoders = model_dict.get('encoders')
 
-        # st.write(f"features: {features}")
-        # st.write(f"encoders: {encoders}")
-
         X_features = {}
-        for f in features:
-            if f in encoders:
-                val = st.selectbox(f, encoders[f].keys())
-                val = encoders[f][val]
-            else:
-                val = st.number_input(f)
-            X_features[f] = val
+        if features:
+            for f in features:
+                if f in encoders:
+                    val = st.selectbox(f, encoders[f].keys())
+                    val = encoders[f][val]
+                else:
+                    val = st.number_input(f)
+                X_features[f] = val
+        else:
+            val = st.number_input('input')
+            X_features['input'] = val
         st.write(X_features)
         
         if st.button('Predict'):
             X_features = np.array([list(X_features.values())])
-            X_features = scaler.transform(X_features)
+            if prep: X_features = prep(X_features)
+            if scaler: X_features = scaler.transform(X_features)
+
             prediction = model.predict(X_features)
-        
-            st.write(result(prediction, encoders[target]))
+            if result:
+                st.write(result(prediction, encoders.get(target)))
+            else:
+                st.write(f'Prediction: {prediction}')
 
 
 if __name__ == "__main__":

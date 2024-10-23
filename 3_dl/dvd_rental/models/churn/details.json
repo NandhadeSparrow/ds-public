@@ -1,0 +1,12 @@
+{
+    "model_name": "churn",
+    "target": "active",
+    "features": [
+        "country_id",
+        "category_id",
+        "store_id",
+        "staff_id",
+        "amount",
+        "return_delay"
+    ]
+}

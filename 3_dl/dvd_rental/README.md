@@ -13,6 +13,8 @@ Predict customer behavior in a DVD rental business, specifically focusing on cus
   - [Environment\_variables](#environment_variables)
   - [Database Setup](#database-setup)
   - [Run App](#run-app)
+- [Workflow](#workflow)
+- [Contact](#contact)
 
 ## Setup
 ### Softwares needed
@@ -23,12 +25,6 @@ Predict customer behavior in a DVD rental business, specifically focusing on cus
 5. Docker
 
 ### Code
-
-<!-- Clone this repository and ```cd``` into that directory
-``` 
-git clone https://github.com/NandhadeSparrow/ds-comprehensive-banking-analytics.git 
-cd ds-comprehensive-banking-analytics
-``` -->
 
 - Download project folder or full repo
 - cd into the folder
@@ -60,6 +56,14 @@ streamlit run app.py
 ```
 
 
+## Workflow
+[Slides]()
+
+[Demo Video]()
+
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/nandhadesparrow)
 
 ---
 ^ [Back to table of contents](#table-of-contents)
