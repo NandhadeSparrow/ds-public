@@ -1,0 +1,11 @@
+{
+    "model_name": "genre",
+    "target": "category_id",
+    "features": [
+        "staff_id",
+        "store_id",
+        "city_id",
+        "day",
+        "month"
+    ]
+}

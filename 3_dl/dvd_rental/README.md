@@ -10,6 +10,7 @@ Predict customer behavior in a DVD rental business, specifically focusing on cus
   - [Softwares needed](#softwares-needed)
   - [Code](#code)
   - [Python packages](#python-packages)
+  - [Sparrowpy packages](#sparrowpy-packages)
   - [Environment\_variables](#environment_variables)
   - [Database Setup](#database-setup)
   - [Run App](#run-app)
@@ -28,7 +29,7 @@ Predict customer behavior in a DVD rental business, specifically focusing on cus
 
 - Download project folder or full repo
 - cd into the folder
-```
+``` bash
 cd ds-public/3_dl/dvd_rental
 ```
 
@@ -36,13 +37,25 @@ cd ds-public/3_dl/dvd_rental
 ### Python packages
 
 Install all necessary packages
-``` 
+``` bash
 pip install -r requirements.txt
 ```
 
+
+
+### Sparrowpy packages
+
+If you want to update my sparrowpy module
+``` bash
+cd utils/sparrowpy
+git pull
+cd ../..
+```
+
+
 ### Environment_variables
 Creating ```.env``` file using template
-``` 
+``` bash
 cp .env_template .env
 ```
 
@@ -51,7 +64,7 @@ cp .env_template .env
 Create database and table in PostgreSQL and add copy its credentials in ```.env``` file.
 
 ### Run App
-``` 
+``` bash
 streamlit run app.py
 ```
 
